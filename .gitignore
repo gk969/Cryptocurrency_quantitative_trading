@@ -1,2 +1,5 @@
 /.idea/*
 /mongo/*
+.vs/*
+/kline_bin/*
+/kline_csv/*
