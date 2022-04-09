@@ -1,0 +1,6 @@
+C:\Users\SongJian\Desktop\Cryptocurrency_quantitative_trading\python\strategy_training\strategy_training\x64\Debug\strategy_training.exe
+C:\Users\SongJian\Desktop\Cryptocurrency_quantitative_trading\python\strategy_training\x64\Debug\strategy_training.exe
+C:\Users\SongJian\Desktop\Cryptocurrency_quantitative_trading\huobi\multi_threads_training\x64\Debug\strategy_training.exe
+\\192.168.0.104\Users\SongJian\Desktop\Cryptocurrency_quantitative_trading\huobi\multi_threads_training\x64\Debug\strategy_training.exe
+C:\Users\SongJian\Desktop\Cryptocurrency_quantitative_trading\huobi\cpu_training\x64\Debug\strategy_training.exe
+G:\Project\Cryptocurrency_quantitative_trading\huobi\cpu_training\x64\Debug\strategy_training.exe

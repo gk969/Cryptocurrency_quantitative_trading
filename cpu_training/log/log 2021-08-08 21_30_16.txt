@@ -1,0 +1,25 @@
+log start @ 2021-08-08 21:30:16
+cpu core 8
+kline_start_time 1509465600 kline_total_len 379296 test_start 373248 test_end 379296
+best strategy : fast 7 slow 46 open 0.000 close 0.032 profit 2.5191
+training_hour 168 test_hour 72
+best strategy : fast 3 slow 4 open 0.000 close 0.014 profit 1.8297
+test strategy @ 373248 test_profit 1.1657 cur_profit 1.1657
+best strategy : fast 1 slow 5 open 0.000 close 0.026 profit 2.1490
+test strategy @ 374112 test_profit 1.3860 cur_profit 1.6157
+best strategy : fast 7 slow 22 open 0.012 close 0.034 profit 3.0738
+test strategy @ 374976 test_profit 0.9684 cur_profit 1.5646
+best strategy : fast 7 slow 48 open 0.000 close 0.032 profit 1.7928
+test strategy @ 375840 test_profit 1.0719 cur_profit 1.6771
+best strategy : fast 9 slow 37 open 0.000 close 0.014 profit 1.5151
+test strategy @ 376704 test_profit 1.0057 cur_profit 1.6867
+best strategy : fast 19 slow 46 open 0.004 close 0.008 profit 1.3849
+test strategy @ 377568 test_profit 0.9927 cur_profit 1.6744
+best strategy : fast 11 slow 54 open 0.010 close 0.014 profit 1.2762
+test strategy @ 378432 test_profit 0.9585 cur_profit 1.6049
+training_hour 2016 test_hour 72 test end
+better @ training_hour 168 test_hour 72 profit 1.6049
+test_best_strategy fast 7 slow 46 open 0.000 close 0.032 profit 2.5191
+start @ 2021-08-08 21:30:16
+end   @ 2021-08-08 21:31:40
+cost 84s 00:01:24

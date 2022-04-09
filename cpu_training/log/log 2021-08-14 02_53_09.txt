@@ -1,0 +1,31 @@
+log start @ 2021-08-14 02:53:09
+cpu core 16
+RAND_MAX 32767
+market.ethusdt.kline.5min kline_start_time 1509465600 full_kline_len 379296 training_start 344736 training_end 352800
+best strategy : fast 3 slow 8 open 0.004 close 0.092 profit 5.8381
+training 2020-06-01 00:00:00 test 2020-07-01 00:00:00 strategy profit 1.0297 test_profit 1.0297
+best strategy : fast 1 slow 27 open 0.014 close 0.038 profit 4.3204
+training 2020-07-01 00:00:00 test 2020-07-31 00:00:00 strategy profit 1.1497 test_profit 1.1838
+best strategy : fast 3 slow 26 open 0.008 close 0.062 profit 7.0692
+training 2020-07-31 00:00:00 test 2020-08-30 00:00:00 strategy profit 1.2243 test_profit 1.4493
+best strategy : fast 1 slow 7 open 0.000 close 0.034 profit 4.7985
+training 2020-08-30 00:00:00 test 2020-09-29 00:00:00 strategy profit 1.2419 test_profit 1.7999
+best strategy : fast 1 slow 7 open 0.008 close 0.024 profit 6.7343
+training 2020-09-29 00:00:00 test 2020-10-29 00:00:00 strategy profit 0.9314 test_profit 1.6763
+best strategy : fast 3 slow 16 open 0.008 close 0.080 profit 5.1849
+training 2020-10-29 00:00:00 test 2020-11-28 00:00:00 strategy profit 1.2722 test_profit 2.1326
+best strategy : fast 3 slow 12 open 0.008 close 0.084 profit 6.6667
+training 2020-11-28 00:00:00 test 2020-12-28 00:00:00 strategy profit 1.3557 test_profit 2.8911
+best strategy : fast 5 slow 25 open 0.014 close 0.088 profit 6.7745
+training 2020-12-28 00:00:00 test 2021-01-27 00:00:00 strategy profit 1.0653 test_profit 3.0798
+best strategy : fast 3 slow 10 open 0.000 close 0.072 profit 8.2823
+training 2021-01-27 00:00:00 test 2021-02-26 00:00:00 strategy profit 1.2181 test_profit 3.7516
+best strategy : fast 7 slow 22 open 0.000 close 0.080 profit 5.6017
+training 2021-02-26 00:00:00 test 2021-03-28 00:00:00 strategy profit 0.7523 test_profit 2.8221
+best strategy : fast 3 slow 20 open 0.002 close 0.028 profit 3.5836
+training 2021-03-28 00:00:00 test 2021-04-27 00:00:00 strategy profit 0.9815 test_profit 2.7699
+best strategy : fast 7 slow 10 open 0.000 close 0.072 profit 7.3173
+training 2021-04-27 00:00:00 test 2021-05-27 00:00:00 strategy profit 0.3601 test_profit 0.9975
+start @ 2021-08-14 02:53:09
+end   @ 2021-08-14 02:54:57
+cost 108s 00:01:48

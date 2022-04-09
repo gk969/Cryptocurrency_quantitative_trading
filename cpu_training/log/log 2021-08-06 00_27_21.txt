@@ -1,0 +1,2006 @@
+log start @ 2021-08-06 00:27:21
+cpu core 8
+kline_start_time 1509465600 kline_total_len 1896480 test_start 1893600 test_end 1896480
+open short @ price 2759.31 position_value 1.000
+close short @ price 2744.18 profit 0.005 position_value 1.005
+close short @ price 2749.53 profit 0.004 position_value 1.003
+close short @ price 2745.09 profit 0.005 position_value 1.004close short @ price 2745.09 profit 0.005 position_value 1.004close short @ price 2745.09 profit 0.005 position_value 1.004close short @ price 2745.09 profit 0.005 position_value 1.004
+
+
+
+open long @ price 2745.09 position_value 1.004
+open long @ price 2745.09 position_value 1.004
+close long @ price 2740.40 profit -0.001 position_value 1.002close long @ price 2740.40 profit -0.001 position_value 1.002
+close long @ price 2732.77 profit -0.004 position_value 0.999
+close long @ price 2743.07 profit -0.002 position_value 1.000close long @ price 2743.07 profit -0.002 position_value 1.000
+open short @ price 2732.77 position_value 0.999
+
+open short @ price 2740.40 position_value 1.002
+close short @ price 2730.91 profit 0.001 position_value 0.999close short @ price 2730.91 profit 0.001 position_value 0.999
+open short @ price 2743.07 position_value 0.999
+
+close short @ price 2734.85 profit 0.002 position_value 1.004
+open short @ price 2732.77 position_value 0.999
+close long @ price 2736.59 profit 0.002 position_value 1.000
+open short @ price 2736.59 position_value 1.000
+close short @ price 2741.78 profit 0.000 position_value 0.999close short @ price 2741.78 profit 0.000 position_value 0.999
+close short @ price 2732.34 profit 0.002 position_value 1.001
+
+open long @ price 2734.85 position_value 1.003
+close short @ price 2725.77 profit 0.003 position_value 1.001
+
+open long @ price 2732.34 position_value 1.001
+open long @ price 2725.77 position_value 1.000open long @ price 2725.77 position_value 1.000
+close long @ price 2726.11 profit -0.002 position_value 0.998
+open short @ price 2740.40 position_value 0.998open short @ price 2740.40 position_value 0.998
+open short @ price 2726.11 position_value 0.997
+
+close long @ price 2740.78 profit 0.006 position_value 1.006
+close long @ price 2736.59 profit 0.001 position_value 1.004
+
+close short @ price 2722.44 profit 0.001 position_value 0.998close short @ price 2722.44 profit 0.001 position_value 0.998
+open short @ price 2740.78 position_value 1.005
+open short @ price 2736.59 position_value 1.003
+
+open long @ price 2722.44 position_value 0.998
+close short @ price 2732.34 profit 0.002 position_value 1.004close short @ price 2732.34 profit 0.002 position_value 1.004
+close long @ price 2719.31 profit -0.001 position_value 0.996
+open short @ price 2738.13 position_value 1.006open short @ price 2738.13 position_value 1.006
+open long @ price 2732.34 position_value 1.004
+
+open short @ price 2719.31 position_value 0.996
+close short @ price 2727.03 profit -0.003 position_value 0.993
+
+close short @ price 2734.61 profit 0.002 position_value 1.007close short @ price 2734.61 profit 0.002 position_value 1.007
+close short @ price 2741.83 profit -0.001 position_value 1.004
+open long @ price 2727.03 position_value 0.992open long @ price 2727.03 position_value 0.992
+open long @ price 2741.83 position_value 1.004
+
+open long @ price 2734.61 position_value 1.007
+close long @ price 2742.98 profit 0.000 position_value 1.004close long @ price 2742.98 profit 0.000 position_value 1.004
+close short @ price 2722.44 profit 0.001 position_value 1.002
+
+close long @ price 2726.11 profit -0.003 position_value 1.003
+open short @ price 2742.98 position_value 1.003open short @ price 2742.98 position_value 1.003
+open long @ price 2722.44 position_value 1.001
+
+open short @ price 2726.11 position_value 1.003
+close short @ price 2743.81 profit -0.000 position_value 1.003close short @ price 2743.81 profit -0.000 position_value 1.003
+close long @ price 2719.31 profit -0.001 position_value 1.000
+
+close short @ price 2721.06 profit 0.002 position_value 1.004
+open long @ price 2743.81 position_value 1.002open long @ price 2743.81 position_value 1.002
+open long @ price 2721.06 position_value 1.004
+
+open short @ price 2719.31 position_value 0.999
+close long @ price 2719.43 profit -0.001 position_value 1.003close long @ price 2719.43 profit -0.001 position_value 1.003
+close short @ price 2727.03 profit -0.003 position_value 0.996
+
+close long @ price 2740.78 profit -0.001 position_value 1.001
+open long @ price 2727.03 position_value 0.996open long @ price 2727.03 position_value 0.996
+open short @ price 2725.16 position_value 0.987
+
+open short @ price 2740.78 position_value 1.000
+close short @ price 2722.44 profit -0.001 position_value 1.001close short @ price 2722.44 profit -0.001 position_value 1.001
+close short @ price 2734.61 profit 0.002 position_value 1.002
+
+close short @ price 2726.50 profit -0.000 position_value 0.986
+open long @ price 2734.61 position_value 1.002
+
+open long @ price 2722.44 position_value 1.000
+close long @ price 2726.11 profit -0.003 position_value 0.998
+open long @ price 2729.54 position_value 0.990open long @ price 2729.54 position_value 0.990
+open short @ price 2726.11 position_value 0.998
+open long @ price 2726.50 position_value 0.986
+
+close long @ price 2725.16 profit -0.002 position_value 0.988
+close long @ price 2723.11 profit -0.001 position_value 0.984
+open short @ price 2719.31 position_value 0.998open short @ price 2719.31 position_value 0.998
+open short @ price 2723.11 position_value 0.984
+close short @ price 2727.03 profit -0.003 position_value 0.995close short @ price 2727.03 profit -0.003 position_value 0.995
+close short @ price 2697.98 profit 0.009 position_value 0.993
+
+close short @ price 2723.02 profit 0.001 position_value 0.999
+open long @ price 2727.03 position_value 0.995
+
+open long @ price 2697.98 position_value 0.992
+close long @ price 2726.57 profit -0.000 position_value 0.994close long @ price 2726.57 profit -0.000 position_value 0.994
+close long @ price 2712.49 profit 0.005 position_value 0.997
+open short @ price 2726.57 position_value 0.994
+
+open long @ price 2726.50 position_value 0.987
+close long @ price 2723.11 profit -0.001 position_value 0.985
+close long @ price 2721.52 profit -0.001 position_value 0.997
+open short @ price 2712.49 position_value 0.997
+close short @ price 2729.54 profit -0.001 position_value 0.992close short @ price 2729.54 profit -0.001 position_value 0.992
+close short @ price 2714.08 profit -0.001 position_value 0.996
+open short @ price 2723.11 position_value 0.985open short @ price 2723.11 position_value 0.985
+open long @ price 2729.54 position_value 0.992
+
+open long @ price 2714.08 position_value 0.995
+close long @ price 2725.16 profit -0.002 position_value 0.990
+
+close short @ price 2697.98 profit 0.009 position_value 0.993
+open short @ price 2725.16 position_value 0.990
+open long @ price 2721.06 position_value 0.996
+close long @ price 2708.58 profit -0.002 position_value 0.993close long @ price 2708.58 profit -0.002 position_value 0.993close long @ price 2708.58 profit -0.002 position_value 0.993close long @ price 2708.58 profit -0.002 position_value 0.993
+
+
+
+open long @ price 2697.98 position_value 0.993open long @ price 2697.98 position_value 0.993
+open short @ price 2719.43 position_value 0.995
+close short @ price 2703.54 profit 0.002 position_value 0.994close short @ price 2703.54 profit 0.002 position_value 0.994
+close short @ price 2722.44 profit -0.001 position_value 0.993
+
+close long @ price 2708.58 profit 0.004 position_value 0.996
+open long @ price 2726.50 position_value 0.988open long @ price 2726.50 position_value 0.988
+open short @ price 2708.58 position_value 0.996
+
+open long @ price 2722.44 position_value 0.993
+close long @ price 2698.94 profit -0.002 position_value 0.992close long @ price 2698.94 profit -0.002 position_value 0.992
+close short @ price 2689.18 profit 0.007 position_value 1.003
+
+close long @ price 2719.31 profit -0.001 position_value 0.991
+open short @ price 2723.11 position_value 0.986
+
+open long @ price 2689.18 position_value 1.002
+close short @ price 2693.50 profit 0.011 position_value 0.997close short @ price 2693.50 profit 0.011 position_value 0.997
+close long @ price 2681.08 profit -0.003 position_value 0.999
+open long @ price 2689.18 position_value 0.994open long @ price 2689.18 position_value 0.994
+open long @ price 2693.50 position_value 0.996
+
+open short @ price 2681.08 position_value 0.998
+close long @ price 2681.08 profit -0.003 position_value 0.991
+
+close short @ price 2695.16 profit -0.005 position_value 0.993close short @ price 2695.16 profit -0.005 position_value 0.993
+close long @ price 2707.27 profit 0.005 position_value 1.001
+open long @ price 2695.16 position_value 0.992open long @ price 2695.16 position_value 0.992open long @ price 2695.16 position_value 0.992
+
+
+
+close short @ price 2727.03 profit -0.003 position_value 0.988close short @ price 2727.03 profit -0.003 position_value 0.988close short @ price 2727.03 profit -0.003 position_value 0.988close short @ price 2727.03 profit -0.003 position_value 0.988
+
+
+
+open long @ price 2727.03 position_value 0.987open long @ price 2727.03 position_value 0.987open long @ price 2727.03 position_value 0.987
+
+
+close short @ price 2703.59 profit -0.003 position_value 0.989
+close long @ price 2726.14 profit -0.000 position_value 0.987
+close long @ price 2712.37 profit 0.001 position_value 0.998
+open short @ price 2696.55 position_value 0.987
+open long @ price 2703.59 position_value 0.989open long @ price 2703.59 position_value 0.989
+close short @ price 2692.50 profit 0.002 position_value 0.988
+open short @ price 2726.14 position_value 0.986
+
+open long @ price 2692.50 position_value 0.987
+close long @ price 2691.00 profit -0.001 position_value 0.986close long @ price 2691.00 profit -0.001 position_value 0.986
+close short @ price 2727.56 profit -0.001 position_value 0.985
+close short @ price 2714.08 profit -0.001 position_value 0.997
+
+open short @ price 2691.00 position_value 0.986open short @ price 2691.00 position_value 0.986open short @ price 2691.00 position_value 0.986
+
+
+open long @ price 2727.56 position_value 0.985open long @ price 2727.56 position_value 0.985
+close short @ price 2700.49 profit -0.001 position_value 0.984
+close short @ price 2698.44 profit -0.003 position_value 0.983
+
+close long @ price 2726.82 profit -0.000 position_value 0.984close long @ price 2726.82 profit -0.000 position_value 0.984
+open long @ price 2700.49 position_value 0.984
+open short @ price 2726.82 position_value 0.984open short @ price 2726.82 position_value 0.984
+open long @ price 2698.44 position_value 0.982
+
+close long @ price 2696.65 profit -0.001 position_value 0.982
+close long @ price 2695.03 profit -0.001 position_value 0.981close long @ price 2695.03 profit -0.001 position_value 0.981
+close short @ price 2726.68 profit 0.000 position_value 0.984
+
+open short @ price 2696.65 position_value 0.982
+open short @ price 2695.03 position_value 0.980open short @ price 2695.03 position_value 0.980
+close short @ price 2705.76 profit -0.003 position_value 0.978
+
+open long @ price 2726.68 position_value 0.983
+close short @ price 2700.49 profit -0.002 position_value 0.978close short @ price 2700.49 profit -0.002 position_value 0.978
+close long @ price 2725.16 profit -0.001 position_value 0.982
+
+open long @ price 2705.76 position_value 0.978
+open short @ price 2725.16 position_value 0.982open short @ price 2725.16 position_value 0.982
+close long @ price 2717.95 profit 0.005 position_value 0.982
+
+close long @ price 2700.43 profit -0.002 position_value 0.991
+open short @ price 2717.95 position_value 0.981open short @ price 2717.95 position_value 0.981
+close short @ price 2726.50 profit -0.000 position_value 0.981
+
+open short @ price 2700.43 position_value 0.991
+close short @ price 2719.08 profit -0.000 position_value 0.980
+
+open long @ price 2726.50 position_value 0.981open long @ price 2726.50 position_value 0.981
+close short @ price 2703.54 profit -0.001 position_value 0.989
+open long @ price 2719.08 position_value 0.980
+
+close long @ price 2723.11 profit -0.001 position_value 0.979close long @ price 2723.11 profit -0.001 position_value 0.979close long @ price 2723.11 profit -0.001 position_value 0.979
+
+
+open long @ price 2703.54 position_value 0.989
+open short @ price 2723.11 position_value 0.979open short @ price 2723.11 position_value 0.979open short @ price 2723.11 position_value 0.979open short @ price 2723.11 position_value 0.979
+
+
+
+close short @ price 2690.90 profit 0.012 position_value 0.990close short @ price 2690.90 profit 0.012 position_value 0.990close short @ price 2690.90 profit 0.012 position_value 0.990close short @ price 2690.90 profit 0.012 position_value 0.990
+
+
+
+close short @ price 2724.92 profit -0.003 position_value 0.976close short @ price 2724.92 profit -0.003 position_value 0.976
+close short @ price 2700.46 profit -0.001 position_value 0.985
+open long @ price 2724.92 position_value 0.975open long @ price 2724.92 position_value 0.975
+open long @ price 2700.46 position_value 0.985
+
+close long @ price 2688.48 profit -0.001 position_value 0.988
+close long @ price 2727.50 profit 0.001 position_value 0.976close long @ price 2727.50 profit 0.001 position_value 0.976
+close long @ price 2694.24 profit -0.002 position_value 0.982
+
+open short @ price 2688.48 position_value 0.988
+open short @ price 2694.24 position_value 0.982open short @ price 2694.24 position_value 0.982
+open short @ price 2727.50 position_value 0.976
+
+close short @ price 2697.98 profit -0.004 position_value 0.984
+open short @ price 2717.95 position_value 0.975open short @ price 2717.95 position_value 0.975
+open long @ price 2697.98 position_value 0.983open long @ price 2697.98 position_value 0.983
+
+
+
+open long @ price 2689.18 position_value 0.983open long @ price 2689.18 position_value 0.983
+open long @ price 2732.08 position_value 0.973
+open long @ price 2719.08 position_value 0.974open long @ price 2719.08 position_value 0.974
+close long @ price 2723.79 profit -0.003 position_value 0.970
+
+close long @ price 2681.08 profit -0.003 position_value 0.979
+close long @ price 2717.83 profit -0.000 position_value 0.973
+
+open short @ price 2723.79 position_value 0.969open short @ price 2723.79 position_value 0.969
+open short @ price 2681.08 position_value 0.979
+open short @ price 2717.83 position_value 0.973
+
+close short @ price 2721.89 profit 0.001 position_value 0.970close short @ price 2721.89 profit 0.001 position_value 0.970close short @ price 2721.89 profit 0.001 position_value 0.970close short @ price 2721.89 profit 0.001 position_value 0.970
+
+
+
+open long @ price 2721.89 position_value 0.969
+close long @ price 2707.27 profit -0.000 position_value 0.981close long @ price 2707.27 profit -0.000 position_value 0.981close long @ price 2707.27 profit -0.000 position_value 0.981close long @ price 2707.27 profit -0.000 position_value 0.981
+
+
+
+open short @ price 2707.27 position_value 0.981open short @ price 2707.27 position_value 0.981
+open short @ price 2718.55 position_value 0.967
+close short @ price 2710.98 profit -0.001 position_value 0.979close short @ price 2710.98 profit -0.001 position_value 0.979
+close short @ price 2718.72 profit -0.000 position_value 0.967
+
+open short @ price 2724.72 position_value 0.969
+open long @ price 2718.72 position_value 0.967
+
+close long @ price 2696.55 profit 0.002 position_value 0.976close long @ price 2696.55 profit 0.002 position_value 0.976
+close short @ price 2732.08 profit -0.003 position_value 0.966
+close long @ price 2715.92 profit -0.001 position_value 0.965close long @ price 2715.92 profit -0.001 position_value 0.965
+open short @ price 2696.55 position_value 0.975
+
+open long @ price 2732.08 position_value 0.965
+open short @ price 2715.92 position_value 0.965open short @ price 2715.92 position_value 0.965
+close long @ price 2723.79 profit -0.003 position_value 0.962
+
+close short @ price 2692.50 profit 0.002 position_value 0.976
+open short @ price 2723.79 position_value 0.962
+open long @ price 2715.48 position_value 0.964open long @ price 2715.48 position_value 0.964
+
+
+close long @ price 2709.01 profit -0.002 position_value 0.961close long @ price 2709.01 profit -0.002 position_value 0.961
+open long @ price 2720.38 position_value 0.962
+open short @ price 2709.01 position_value 0.961open short @ price 2709.01 position_value 0.961
+close long @ price 2715.70 profit -0.002 position_value 0.960
+
+open long @ price 2692.50 position_value 0.976
+close short @ price 2712.65 profit -0.001 position_value 0.959close short @ price 2712.65 profit -0.001 position_value 0.959
+close long @ price 2691.00 profit -0.001 position_value 0.975
+
+open short @ price 2715.70 position_value 0.960
+open short @ price 2691.00 position_value 0.975open short @ price 2691.00 position_value 0.975
+open long @ price 2712.65 position_value 0.959
+
+close short @ price 2721.89 profit -0.002 position_value 0.957
+open short @ price 2708.58 position_value 0.975open short @ price 2708.58 position_value 0.975
+open long @ price 2721.89 position_value 0.957
+
+close long @ price 2711.43 profit -0.000 position_value 0.958
+close long @ price 2718.55 profit -0.001 position_value 0.955close long @ price 2718.55 profit -0.001 position_value 0.955
+open long @ price 2698.44 position_value 0.971
+
+open short @ price 2711.43 position_value 0.958
+open long @ price 2706.46 position_value 0.975open long @ price 2706.46 position_value 0.975
+close short @ price 2711.20 profit 0.000 position_value 0.958
+
+close long @ price 2695.03 profit -0.001 position_value 0.970
+close short @ price 2718.72 profit -0.000 position_value 0.954
+
+open long @ price 2711.20 position_value 0.957
+open long @ price 2718.72 position_value 0.954open long @ price 2718.72 position_value 0.954
+close long @ price 2707.63 profit -0.001 position_value 0.956
+close long @ price 2715.92 profit -0.001 position_value 0.952
+
+close short @ price 2703.54 profit -0.001 position_value 0.971
+open short @ price 2715.92 position_value 0.952open short @ price 2715.92 position_value 0.952
+open long @ price 2703.54 position_value 0.970
+close short @ price 2715.48 profit 0.000 position_value 0.952close short @ price 2715.48 profit 0.000 position_value 0.952
+close long @ price 2698.42 profit -0.002 position_value 0.968
+
+close short @ price 2700.49 profit -0.002 position_value 0.967
+open long @ price 2715.48 position_value 0.951open long @ price 2715.48 position_value 0.951
+open long @ price 2700.49 position_value 0.967
+
+open short @ price 2698.42 position_value 0.968
+close long @ price 2709.01 profit -0.002 position_value 0.949close long @ price 2709.01 profit -0.002 position_value 0.949
+close short @ price 2700.46 profit -0.001 position_value 0.967
+
+close long @ price 2696.65 profit -0.001 position_value 0.965
+open short @ price 2709.01 position_value 0.948open short @ price 2709.01 position_value 0.948
+open short @ price 2696.65 position_value 0.964
+
+open long @ price 2700.46 position_value 0.966
+close long @ price 2654.39 profit -0.005 position_value 0.964close long @ price 2654.39 profit -0.005 position_value 0.964
+close long @ price 2689.02 profit -0.004 position_value 0.962
+
+close short @ price 2697.57 profit -0.000 position_value 0.964
+open short @ price 2689.02 position_value 0.961open short @ price 2689.02 position_value 0.961
+open long @ price 2697.57 position_value 0.963
+
+open short @ price 2654.39 position_value 0.963
+close short @ price 2688.95 profit 0.000 position_value 0.961close short @ price 2688.95 profit 0.000 position_value 0.961
+close long @ price 2700.01 profit 0.001 position_value 0.964
+
+close short @ price 2662.15 profit -0.003 position_value 0.960
+open short @ price 2700.01 position_value 0.963open short @ price 2700.01 position_value 0.963
+open long @ price 2662.15 position_value 0.960
+
+open long @ price 2688.95 position_value 0.961
+close short @ price 2705.76 profit -0.002 position_value 0.961close short @ price 2705.76 profit -0.002 position_value 0.961
+close long @ price 2686.83 profit -0.001 position_value 0.960
+
+close long @ price 2656.94 profit -0.002 position_value 0.957
+open long @ price 2705.76 position_value 0.961
+
+open short @ price 2686.83 position_value 0.959open short @ price 2686.83 position_value 0.959
+open short @ price 2656.94 position_value 0.957
+close long @ price 2709.39 profit 0.001 position_value 0.961close long @ price 2709.39 profit 0.001 position_value 0.961
+close short @ price 2618.41 profit 0.015 position_value 0.971
+
+close short @ price 2689.18 profit -0.001 position_value 0.958
+open short @ price 2654.39 position_value 0.959open short @ price 2654.39 position_value 0.959
+open long @ price 2689.18 position_value 0.958
+
+open long @ price 2618.41 position_value 0.970
+close short @ price 2662.15 profit -0.003 position_value 0.956close short @ price 2662.15 profit -0.003 position_value 0.956
+close long @ price 2607.42 profit -0.004 position_value 0.966
+
+close long @ price 2681.08 profit -0.003 position_value 0.954
+open long @ price 2717.56 position_value 0.957open long @ price 2717.56 position_value 0.957
+open short @ price 2607.42 position_value 0.965
+
+open short @ price 2681.08 position_value 0.954
+close long @ price 2717.15 profit -0.000 position_value 0.957close long @ price 2717.15 profit -0.000 position_value 0.957
+close short @ price 2691.49 profit -0.004 position_value 0.950
+
+close short @ price 2606.51 profit 0.000 position_value 0.965
+open short @ price 2717.15 position_value 0.957open short @ price 2717.15 position_value 0.957
+open long @ price 2691.49 position_value 0.949
+
+open long @ price 2606.51 position_value 0.965
+close long @ price 2694.56 profit 0.001 position_value 0.950
+
+close short @ price 2618.41 profit 0.013 position_value 0.963close short @ price 2618.41 profit 0.013 position_value 0.963
+close long @ price 2605.31 profit -0.000 position_value 0.964
+open short @ price 2694.56 position_value 0.950open short @ price 2694.56 position_value 0.950
+open short @ price 2605.31 position_value 0.964
+
+open long @ price 2618.41 position_value 0.962
+close short @ price 2600.00 profit 0.002 position_value 0.965
+
+close long @ price 2717.95 profit -0.001 position_value 0.953close long @ price 2717.95 profit -0.001 position_value 0.953close long @ price 2717.95 profit -0.001 position_value 0.953
+
+
+close long @ price 2607.42 profit -0.004 position_value 0.958close long @ price 2607.42 profit -0.004 position_value 0.958close long @ price 2607.42 profit -0.004 position_value 0.958
+close long @ price 2611.14 profit 0.004 position_value 0.969
+open short @ price 2611.14 position_value 0.968
+
+open short @ price 2696.55 position_value 0.945
+open short @ price 2607.42 position_value 0.957open short @ price 2607.42 position_value 0.957
+close short @ price 2692.50 profit 0.002 position_value 0.946
+
+close short @ price 2613.74 profit -0.001 position_value 0.967
+open long @ price 2692.50 position_value 0.946open long @ price 2692.50 position_value 0.946
+close short @ price 2601.44 profit 0.002 position_value 0.959
+
+open long @ price 2613.74 position_value 0.966
+close long @ price 2691.00 profit -0.001 position_value 0.945close long @ price 2691.00 profit -0.001 position_value 0.945
+close long @ price 2629.08 profit 0.006 position_value 0.972
+
+open long @ price 2601.44 position_value 0.959
+open short @ price 2691.00 position_value 0.945
+
+open short @ price 2629.08 position_value 0.971open short @ price 2629.08 position_value 0.971
+close long @ price 2605.31 profit 0.001 position_value 0.960
+close short @ price 2698.44 profit -0.003 position_value 0.942close short @ price 2698.44 profit -0.003 position_value 0.942
+close short @ price 2632.33 profit -0.001 position_value 0.970
+
+open short @ price 2605.31 position_value 0.960
+open long @ price 2698.44 position_value 0.941open long @ price 2698.44 position_value 0.941
+close short @ price 2598.51 profit 0.003 position_value 0.962
+
+open long @ price 2632.33 position_value 0.969
+open long @ price 2598.51 position_value 0.961
+
+close long @ price 2695.03 profit -0.001 position_value 0.940
+close long @ price 2610.01 profit 0.004 position_value 0.965close long @ price 2610.01 profit 0.004 position_value 0.965close long @ price 2610.01 profit 0.004 position_value 0.965close long @ price 2610.01 profit 0.004 position_value 0.965
+
+
+
+open short @ price 2610.01 position_value 0.965open short @ price 2610.01 position_value 0.965
+close short @ price 2700.49 profit -0.002 position_value 0.937
+close short @ price 2732.08 profit -0.003 position_value 0.943close short @ price 2732.08 profit -0.003 position_value 0.943
+open long @ price 2700.49 position_value 0.937
+
+close short @ price 2613.74 profit -0.001 position_value 0.963
+open long @ price 2732.08 position_value 0.943
+close short @ price 2612.72 profit 0.005 position_value 0.971
+open long @ price 2613.74 position_value 0.963open long @ price 2613.74 position_value 0.963
+open long @ price 2612.72 position_value 0.970
+
+close long @ price 2696.65 profit -0.001 position_value 0.935
+close long @ price 2629.08 profit 0.006 position_value 0.968
+open short @ price 2723.79 position_value 0.939open short @ price 2723.79 position_value 0.939
+
+
+close short @ price 2720.38 profit 0.001 position_value 0.940close short @ price 2720.38 profit 0.001 position_value 0.940
+close short @ price 2632.33 profit -0.001 position_value 0.966
+open short @ price 2696.65 position_value 0.935open short @ price 2696.65 position_value 0.935
+open long @ price 2720.38 position_value 0.940
+open short @ price 2608.95 position_value 0.968
+close short @ price 2616.36 profit -0.003 position_value 0.965
+
+open long @ price 2632.33 position_value 0.965
+open long @ price 2616.36 position_value 0.965open long @ price 2616.36 position_value 0.965
+close long @ price 2625.87 profit -0.002 position_value 0.963
+open long @ price 2699.21 position_value 0.933
+
+
+close long @ price 2715.70 profit -0.002 position_value 0.938close long @ price 2715.70 profit -0.002 position_value 0.938close long @ price 2715.70 profit -0.002 position_value 0.938close long @ price 2715.70 profit -0.002 position_value 0.938
+
+
+open short @ price 2617.92 position_value 0.964
+close short @ price 2625.84 profit -0.003 position_value 0.961
+open long @ price 2625.84 position_value 0.961
+open short @ price 2715.70 position_value 0.937
+
+close short @ price 2705.76 profit -0.002 position_value 0.930
+close short @ price 2721.89 profit -0.002 position_value 0.935close short @ price 2721.89 profit -0.002 position_value 0.935close short @ price 2721.89 profit -0.002 position_value 0.935close short @ price 2721.89 profit -0.002 position_value 0.935
+
+
+
+open long @ price 2623.95 position_value 0.962open long @ price 2623.95 position_value 0.962open long @ price 2623.95 position_value 0.962open long @ price 2623.95 position_value 0.962
+
+
+
+close long @ price 2718.55 profit -0.001 position_value 0.933
+open short @ price 2616.34 position_value 0.959open short @ price 2616.34 position_value 0.959
+open short @ price 2718.55 position_value 0.933
+close short @ price 2614.09 profit 0.001 position_value 0.959close short @ price 2614.09 profit 0.001 position_value 0.959
+close short @ price 2715.48 profit 0.001 position_value 0.933
+
+close short @ price 2626.33 profit -0.001 position_value 0.957
+open long @ price 2614.09 position_value 0.959open long @ price 2614.09 position_value 0.959
+open long @ price 2715.48 position_value 0.933
+
+open long @ price 2626.33 position_value 0.956
+close long @ price 2608.20 profit -0.002 position_value 0.956close long @ price 2608.20 profit -0.002 position_value 0.956
+close long @ price 2622.36 profit -0.002 position_value 0.955
+
+close long @ price 2712.48 profit -0.001 position_value 0.931
+open short @ price 2608.20 position_value 0.956open short @ price 2608.20 position_value 0.956
+open short @ price 2622.36 position_value 0.954
+
+open short @ price 2712.48 position_value 0.931
+close short @ price 2606.09 profit 0.006 position_value 0.960close short @ price 2606.09 profit 0.006 position_value 0.960
+close long @ price 2717.30 profit -0.000 position_value 0.925
+
+close short @ price 2710.04 profit 0.001 position_value 0.931
+open long @ price 2606.09 position_value 0.959
+
+open short @ price 2717.30 position_value 0.924open short @ price 2717.30 position_value 0.924open short @ price 2717.30 position_value 0.924open short @ price 2717.30 position_value 0.924
+
+open long @ price 2710.04 position_value 0.931
+close long @ price 2711.42 profit 0.001 position_value 0.931
+open short @ price 2617.92 position_value 0.952open short @ price 2617.92 position_value 0.952
+open short @ price 2711.42 position_value 0.931
+
+
+
+close short @ price 2712.65 profit -0.000 position_value 0.930
+open long @ price 2712.65 position_value 0.930
+close long @ price 2711.36 profit -0.000 position_value 0.929close long @ price 2711.36 profit -0.000 position_value 0.929
+open long @ price 2719.71 position_value 0.923
+close short @ price 2603.72 profit 0.000 position_value 0.958close short @ price 2603.72 profit 0.000 position_value 0.958
+open short @ price 2711.36 position_value 0.929
+open long @ price 2625.84 position_value 0.948open long @ price 2625.84 position_value 0.948
+
+
+
+open long @ price 2603.72 position_value 0.957open long @ price 2603.72 position_value 0.957
+open short @ price 2719.95 position_value 0.922
+close long @ price 2597.84 profit -0.002 position_value 0.955
+open short @ price 2622.43 position_value 0.946open short @ price 2622.43 position_value 0.946
+
+
+close short @ price 2626.33 profit -0.001 position_value 0.944close short @ price 2626.33 profit -0.001 position_value 0.944close short @ price 2626.33 profit -0.001 position_value 0.944close short @ price 2626.33 profit -0.001 position_value 0.944
+
+
+
+open long @ price 2626.33 position_value 0.944
+open long @ price 2719.08 position_value 0.922
+open short @ price 2701.98 position_value 0.926open short @ price 2701.98 position_value 0.926
+close long @ price 2717.83 profit -0.000 position_value 0.921
+open long @ price 2604.20 position_value 0.951open long @ price 2604.20 position_value 0.951
+close short @ price 2648.29 profit 0.020 position_value 0.944
+
+open short @ price 2717.83 position_value 0.921
+close long @ price 2590.10 profit -0.005 position_value 0.946close long @ price 2590.10 profit -0.005 position_value 0.946
+open long @ price 2648.29 position_value 0.944
+
+close short @ price 2719.72 profit -0.001 position_value 0.920
+open short @ price 2622.36 position_value 0.942open short @ price 2622.36 position_value 0.942
+close long @ price 2651.25 profit 0.001 position_value 0.944
+
+open long @ price 2719.72 position_value 0.919
+close short @ price 2606.09 profit 0.006 position_value 0.947close short @ price 2606.09 profit 0.006 position_value 0.947
+open short @ price 2651.25 position_value 0.944
+
+close long @ price 2726.58 profit 0.003 position_value 0.921
+open long @ price 2606.09 position_value 0.947open long @ price 2606.09 position_value 0.947
+open short @ price 2726.58 position_value 0.921
+
+close short @ price 2660.58 profit -0.004 position_value 0.940
+close long @ price 2611.95 profit 0.002 position_value 0.949
+
+close short @ price 2728.12 profit -0.001 position_value 0.920close short @ price 2728.12 profit -0.001 position_value 0.920close short @ price 2728.12 profit -0.001 position_value 0.920close short @ price 2728.12 profit -0.001 position_value 0.920
+
+open long @ price 2660.58 position_value 0.940
+
+open long @ price 2728.12 position_value 0.919
+close long @ price 2724.72 profit -0.001 position_value 0.918close long @ price 2724.72 profit -0.001 position_value 0.918
+close short @ price 2603.72 profit 0.003 position_value 0.951
+
+close short @ price 2600.09 profit -0.003 position_value 0.941
+open short @ price 2654.39 position_value 0.937open short @ price 2654.39 position_value 0.937
+open long @ price 2600.09 position_value 0.941
+
+open long @ price 2603.72 position_value 0.951
+close short @ price 2662.15 profit -0.003 position_value 0.934close short @ price 2662.15 profit -0.003 position_value 0.934
+
+
+open long @ price 2732.08 position_value 0.914
+open long @ price 2662.15 position_value 0.933
+close long @ price 2656.94 profit -0.002 position_value 0.931close long @ price 2656.94 profit -0.002 position_value 0.931close long @ price 2656.94 profit -0.002 position_value 0.931
+
+
+open short @ price 2612.17 position_value 0.945open short @ price 2612.17 position_value 0.945open short @ price 2612.17 position_value 0.945open short @ price 2612.17 position_value 0.945
+
+
+
+close short @ price 2572.50 profit 0.015 position_value 0.959close short @ price 2572.50 profit 0.015 position_value 0.959close short @ price 2572.50 profit 0.015 position_value 0.959
+
+
+open long @ price 2604.20 position_value 0.945open long @ price 2604.20 position_value 0.945
+open long @ price 2728.76 position_value 0.912
+
+close long @ price 2590.10 profit -0.005 position_value 0.939close long @ price 2590.10 profit -0.005 position_value 0.939close long @ price 2590.10 profit -0.005 position_value 0.939close long @ price 2590.10 profit -0.005 position_value 0.939
+
+
+
+open short @ price 2590.10 position_value 0.939open short @ price 2590.10 position_value 0.939
+close long @ price 2607.42 profit -0.004 position_value 0.939
+open short @ price 2723.79 position_value 0.910open short @ price 2723.79 position_value 0.910
+close short @ price 2587.46 profit 0.001 position_value 0.940
+
+open short @ price 2607.42 position_value 0.939
+open long @ price 2587.46 position_value 0.939
+
+close short @ price 2721.12 profit 0.001 position_value 0.910close short @ price 2721.12 profit 0.001 position_value 0.910close short @ price 2721.12 profit 0.001 position_value 0.910close short @ price 2721.12 profit 0.001 position_value 0.910
+
+
+
+open long @ price 2721.12 position_value 0.910open long @ price 2721.12 position_value 0.910open long @ price 2721.12 position_value 0.910
+
+
+open long @ price 2601.44 position_value 0.940open long @ price 2601.44 position_value 0.940open long @ price 2601.44 position_value 0.940open long @ price 2601.44 position_value 0.940
+
+
+
+close long @ price 2605.31 profit 0.001 position_value 0.941close long @ price 2605.31 profit 0.001 position_value 0.941
+open short @ price 2715.70 position_value 0.907open short @ price 2715.70 position_value 0.907
+open long @ price 2600.09 position_value 0.938
+
+close short @ price 2579.05 profit -0.004 position_value 0.947
+close short @ price 2715.72 profit -0.000 position_value 0.907close short @ price 2715.72 profit -0.000 position_value 0.907
+open long @ price 2579.05 position_value 0.947
+
+close long @ price 2600.67 profit 0.000 position_value 0.937
+open long @ price 2715.72 position_value 0.907
+
+close long @ price 2582.54 profit 0.001 position_value 0.948close long @ price 2582.54 profit 0.001 position_value 0.948
+open short @ price 2600.67 position_value 0.937
+close long @ price 2718.55 profit 0.001 position_value 0.907close long @ price 2718.55 profit 0.001 position_value 0.907
+open short @ price 2582.54 position_value 0.947
+
+close short @ price 2602.60 profit -0.001 position_value 0.936
+open short @ price 2718.55 position_value 0.907open short @ price 2718.55 position_value 0.907
+open long @ price 2602.60 position_value 0.936
+
+close short @ price 2584.38 profit -0.001 position_value 0.946
+close short @ price 2718.72 profit -0.000 position_value 0.906close short @ price 2718.72 profit -0.000 position_value 0.906
+close long @ price 2612.17 profit 0.004 position_value 0.939
+
+open long @ price 2584.38 position_value 0.946
+close short @ price 2598.93 profit -0.001 position_value 0.938close short @ price 2598.93 profit -0.001 position_value 0.938
+close long @ price 2581.97 profit -0.001 position_value 0.945
+
+open short @ price 2612.17 position_value 0.938
+open short @ price 2581.97 position_value 0.944open short @ price 2581.97 position_value 0.944
+open long @ price 2598.93 position_value 0.937
+
+
+close short @ price 2611.98 profit 0.000 position_value 0.938close short @ price 2611.98 profit 0.000 position_value 0.938close short @ price 2611.98 profit 0.000 position_value 0.938close short @ price 2611.98 profit 0.000 position_value 0.938
+
+
+
+open long @ price 2611.98 position_value 0.938open long @ price 2611.98 position_value 0.938
+close short @ price 2613.74 profit -0.001 position_value 0.939
+open long @ price 2583.75 position_value 0.943open long @ price 2583.75 position_value 0.943
+close long @ price 2605.72 profit -0.002 position_value 0.935
+
+open long @ price 2613.74 position_value 0.938
+close long @ price 2583.75 profit -0.000 position_value 0.942close long @ price 2583.75 profit -0.000 position_value 0.942
+close long @ price 2632.08 profit 0.007 position_value 0.945
+
+open short @ price 2605.72 position_value 0.935
+open short @ price 2632.08 position_value 0.944open short @ price 2632.08 position_value 0.944
+open short @ price 2583.75 position_value 0.942
+
+close short @ price 2572.50 profit 0.013 position_value 0.946
+close short @ price 2632.33 profit -0.000 position_value 0.944
+
+close short @ price 2585.58 profit -0.001 position_value 0.941close short @ price 2585.58 profit -0.001 position_value 0.941close short @ price 2585.58 profit -0.001 position_value 0.941close short @ price 2585.58 profit -0.001 position_value 0.941
+
+
+
+open long @ price 2585.58 position_value 0.941open long @ price 2585.58 position_value 0.941open long @ price 2585.58 position_value 0.941
+
+
+close long @ price 2570.69 profit -0.001 position_value 0.945close long @ price 2570.69 profit -0.001 position_value 0.945close long @ price 2570.69 profit -0.001 position_value 0.945close long @ price 2570.69 profit -0.001 position_value 0.945
+
+
+
+open short @ price 2570.69 position_value 0.944
+open short @ price 2585.86 position_value 0.940open short @ price 2585.86 position_value 0.940
+close short @ price 2576.01 profit -0.002 position_value 0.942
+close short @ price 2592.19 profit -0.002 position_value 0.937close short @ price 2592.19 profit -0.002 position_value 0.937
+open long @ price 2576.01 position_value 0.942
+
+close short @ price 2623.95 profit 0.001 position_value 0.941
+close short @ price 2716.04 profit -0.000 position_value 0.900close short @ price 2716.04 profit -0.000 position_value 0.900
+close long @ price 2569.75 profit -0.002 position_value 0.939
+
+open long @ price 2623.95 position_value 0.940
+open long @ price 2716.04 position_value 0.900open long @ price 2716.04 position_value 0.900
+close long @ price 2616.34 profit -0.003 position_value 0.937
+
+open short @ price 2569.75 position_value 0.939
+close long @ price 2712.48 profit -0.001 position_value 0.898close long @ price 2712.48 profit -0.001 position_value 0.898
+open short @ price 2616.34 position_value 0.937
+
+close short @ price 2579.05 profit -0.004 position_value 0.935
+close short @ price 2616.24 profit 0.000 position_value 0.936
+open long @ price 2616.24 position_value 0.936
+close long @ price 2611.18 profit -0.002 position_value 0.934
+open long @ price 2579.05 position_value 0.934open long @ price 2579.05 position_value 0.934
+open short @ price 2712.48 position_value 0.898
+
+open short @ price 2611.18 position_value 0.933
+close long @ price 2582.54 profit 0.001 position_value 0.935close long @ price 2582.54 profit 0.001 position_value 0.935
+close short @ price 2710.04 profit 0.001 position_value 0.898
+
+close short @ price 2614.09 profit -0.001 position_value 0.932
+open short @ price 2582.54 position_value 0.935open short @ price 2582.54 position_value 0.935
+close long @ price 2607.08 profit 0.001 position_value 0.938
+
+open long @ price 2614.09 position_value 0.932
+close short @ price 2584.38 profit -0.001 position_value 0.934close short @ price 2584.38 profit -0.001 position_value 0.934
+open short @ price 2607.08 position_value 0.938
+
+close long @ price 2608.20 profit -0.002 position_value 0.929
+open long @ price 2584.38 position_value 0.934open long @ price 2584.38 position_value 0.934
+open short @ price 2608.20 position_value 0.929
+
+close short @ price 2594.68 profit 0.005 position_value 0.942
+close short @ price 2712.65 profit -0.000 position_value 0.897close short @ price 2712.65 profit -0.000 position_value 0.897
+open long @ price 2594.68 position_value 0.941
+
+close short @ price 2622.66 profit -0.006 position_value 0.923
+open long @ price 2712.65 position_value 0.897open long @ price 2712.65 position_value 0.897
+open long @ price 2622.66 position_value 0.923
+
+close long @ price 2593.32 profit -0.001 position_value 0.940
+close long @ price 2711.36 profit -0.000 position_value 0.896close long @ price 2711.36 profit -0.000 position_value 0.896
+open short @ price 2593.32 position_value 0.940
+
+close long @ price 2617.92 profit -0.002 position_value 0.921
+close short @ price 2602.14 profit -0.003 position_value 0.936close short @ price 2602.14 profit -0.003 position_value 0.936
+open short @ price 2617.92 position_value 0.920
+
+open short @ price 2711.36 position_value 0.896
+open long @ price 2602.14 position_value 0.936open long @ price 2602.14 position_value 0.936
+close short @ price 2625.84 profit -0.003 position_value 0.917
+
+close short @ price 2711.20 profit 0.000 position_value 0.895
+close long @ price 2594.10 profit -0.003 position_value 0.933close long @ price 2594.10 profit -0.003 position_value 0.933
+open long @ price 2625.84 position_value 0.917
+
+open long @ price 2711.20 position_value 0.895
+open short @ price 2594.10 position_value 0.932open short @ price 2594.10 position_value 0.932
+close long @ price 2622.43 profit -0.001 position_value 0.915
+
+close long @ price 2707.63 profit -0.001 position_value 0.893
+open short @ price 2622.43 position_value 0.915open short @ price 2622.43 position_value 0.915
+open short @ price 2707.63 position_value 0.893
+
+close short @ price 2603.88 profit -0.004 position_value 0.929
+close short @ price 2626.33 profit -0.001 position_value 0.913close short @ price 2626.33 profit -0.001 position_value 0.913
+close short @ price 2708.17 profit -0.000 position_value 0.892
+
+open long @ price 2603.88 position_value 0.928
+open short @ price 2602.17 position_value 0.930open short @ price 2602.17 position_value 0.930
+close long @ price 2604.85 profit 0.000 position_value 0.928
+
+open long @ price 2708.17 position_value 0.892
+close short @ price 2604.69 profit -0.001 position_value 0.929
+
+open short @ price 2604.85 position_value 0.928open short @ price 2604.85 position_value 0.928open short @ price 2604.85 position_value 0.928open short @ price 2604.85 position_value 0.928
+
+
+
+close short @ price 2608.49 profit -0.001 position_value 0.926close short @ price 2608.49 profit -0.001 position_value 0.926close short @ price 2608.49 profit -0.001 position_value 0.926close short @ price 2608.49 profit -0.001 position_value 0.926
+
+
+
+open long @ price 2608.49 position_value 0.926open long @ price 2608.49 position_value 0.926
+close short @ price 2652.17 profit 0.018 position_value 0.905
+open short @ price 2606.48 position_value 0.929open short @ price 2606.48 position_value 0.929
+open long @ price 2652.17 position_value 0.905
+
+close long @ price 2605.97 profit -0.001 position_value 0.924
+close short @ price 2600.15 profit 0.002 position_value 0.930close short @ price 2600.15 profit 0.002 position_value 0.930
+close long @ price 2651.25 profit -0.000 position_value 0.904
+
+open short @ price 2605.97 position_value 0.924
+open long @ price 2600.15 position_value 0.930open long @ price 2600.15 position_value 0.930
+close short @ price 2600.42 profit 0.002 position_value 0.926
+
+open short @ price 2651.25 position_value 0.904
+close long @ price 2596.19 profit -0.002 position_value 0.928close long @ price 2596.19 profit -0.002 position_value 0.928
+close short @ price 2660.58 profit -0.004 position_value 0.900
+
+open long @ price 2600.42 position_value 0.925
+open short @ price 2596.19 position_value 0.928open short @ price 2596.19 position_value 0.928
+close long @ price 2598.37 profit -0.001 position_value 0.924
+
+open long @ price 2660.58 position_value 0.900
+open short @ price 2598.37 position_value 0.924
+
+close long @ price 2617.98 profit 0.006 position_value 0.920close long @ price 2617.98 profit 0.006 position_value 0.920close long @ price 2617.98 profit 0.006 position_value 0.920close long @ price 2617.98 profit 0.006 position_value 0.920
+
+
+
+open short @ price 2617.98 position_value 0.919open short @ price 2617.98 position_value 0.919
+open short @ price 2654.39 position_value 0.897
+open long @ price 2602.92 position_value 0.921open long @ price 2602.92 position_value 0.921
+close short @ price 2603.72 profit 0.005 position_value 0.924
+
+close short @ price 2658.71 profit -0.002 position_value 0.895
+close long @ price 2597.97 profit -0.002 position_value 0.919close long @ price 2597.97 profit -0.002 position_value 0.919
+open long @ price 2658.71 position_value 0.895
+
+open long @ price 2603.72 position_value 0.924
+close long @ price 2656.94 profit -0.001 position_value 0.894close long @ price 2656.94 profit -0.001 position_value 0.894
+close long @ price 2598.24 profit -0.002 position_value 0.921
+
+open short @ price 2597.97 position_value 0.919
+open long @ price 2602.14 position_value 0.923open long @ price 2602.14 position_value 0.923
+close short @ price 2662.15 profit -0.002 position_value 0.892
+
+open short @ price 2598.24 position_value 0.921
+close long @ price 2594.10 profit -0.003 position_value 0.920close long @ price 2594.10 profit -0.003 position_value 0.920
+close short @ price 2604.20 profit -0.002 position_value 0.918
+
+open long @ price 2662.15 position_value 0.891
+open short @ price 2594.10 position_value 0.919open short @ price 2594.10 position_value 0.919
+close long @ price 2656.94 profit -0.002 position_value 0.889
+
+open long @ price 2604.20 position_value 0.918
+close short @ price 2603.88 profit -0.004 position_value 0.916close short @ price 2603.88 profit -0.004 position_value 0.916
+close long @ price 2590.10 profit -0.005 position_value 0.913
+
+open short @ price 2656.94 position_value 0.889
+open short @ price 2589.09 position_value 0.916
+
+open short @ price 2590.10 position_value 0.912open short @ price 2590.10 position_value 0.912
+close short @ price 2638.21 profit 0.007 position_value 0.895
+close short @ price 2484.95 profit 0.040 position_value 0.953
+
+close short @ price 2585.14 profit 0.002 position_value 0.914close short @ price 2585.14 profit 0.002 position_value 0.914
+open long @ price 2638.21 position_value 0.894
+open long @ price 2585.14 position_value 0.913
+
+open long @ price 2484.95 position_value 0.952
+close long @ price 2583.08 profit -0.001 position_value 0.912
+open long @ price 2608.49 position_value 0.914open long @ price 2608.49 position_value 0.914open long @ price 2608.49 position_value 0.914open long @ price 2608.49 position_value 0.914
+
+
+
+close long @ price 2605.97 profit -0.001 position_value 0.913
+open short @ price 2631.86 position_value 0.891
+open short @ price 2482.64 position_value 0.951
+close short @ price 2587.46 profit -0.002 position_value 0.910
+open short @ price 2605.97 position_value 0.912open short @ price 2605.97 position_value 0.912open short @ price 2605.97 position_value 0.912
+
+
+open long @ price 2587.46 position_value 0.910
+close short @ price 2600.42 profit 0.002 position_value 0.914
+open long @ price 2590.62 position_value 0.905
+open long @ price 2487.03 position_value 0.948open long @ price 2487.03 position_value 0.948
+close long @ price 2619.71 profit 0.011 position_value 0.915
+close long @ price 2483.57 profit -0.001 position_value 0.946
+
+close long @ price 2590.93 profit 0.001 position_value 0.910close long @ price 2590.93 profit 0.001 position_value 0.910close long @ price 2590.93 profit 0.001 position_value 0.910
+
+
+open short @ price 2619.71 position_value 0.914
+open short @ price 2590.93 position_value 0.910
+close short @ price 2482.96 profit 0.000 position_value 0.946
+open short @ price 2598.37 position_value 0.912open short @ price 2598.37 position_value 0.912
+open long @ price 2482.96 position_value 0.945
+close short @ price 2603.12 profit -0.002 position_value 0.910close short @ price 2603.12 profit -0.002 position_value 0.910
+close long @ price 2469.41 profit -0.005 position_value 0.940
+open long @ price 2603.12 position_value 0.910open long @ price 2603.12 position_value 0.910
+
+
+
+open short @ price 2469.41 position_value 0.940open short @ price 2469.41 position_value 0.940
+open long @ price 2615.19 position_value 0.915
+open long @ price 2596.84 position_value 0.907open long @ price 2596.84 position_value 0.907
+close short @ price 2456.09 profit 0.005 position_value 0.944
+
+close long @ price 2607.42 profit -0.003 position_value 0.912
+close long @ price 2593.33 profit -0.001 position_value 0.906close long @ price 2593.33 profit -0.001 position_value 0.906
+open long @ price 2456.09 position_value 0.944
+
+open short @ price 2607.42 position_value 0.912
+close short @ price 2595.56 profit 0.001 position_value 0.908close short @ price 2595.56 profit 0.001 position_value 0.908
+close long @ price 2474.22 profit 0.007 position_value 0.950
+
+close short @ price 2597.66 profit 0.004 position_value 0.915
+open long @ price 2595.56 position_value 0.907
+
+open short @ price 2474.22 position_value 0.950open short @ price 2474.22 position_value 0.950open short @ price 2474.22 position_value 0.950open short @ price 2474.22 position_value 0.950
+
+
+
+close short @ price 2484.55 profit -0.004 position_value 0.946close short @ price 2484.55 profit -0.004 position_value 0.946close short @ price 2484.55 profit -0.004 position_value 0.946close short @ price 2484.55 profit -0.004 position_value 0.946
+
+
+
+open long @ price 2484.55 position_value 0.945open long @ price 2484.55 position_value 0.945open long @ price 2484.55 position_value 0.945
+
+
+open short @ price 2608.92 position_value 0.917open short @ price 2608.92 position_value 0.917
+open long @ price 2615.31 position_value 0.902
+close long @ price 2487.26 profit 0.001 position_value 0.946close long @ price 2487.26 profit 0.001 position_value 0.946
+close short @ price 2607.10 profit 0.001 position_value 0.918
+
+close long @ price 2612.17 profit -0.001 position_value 0.901
+open long @ price 2607.10 position_value 0.917
+
+open short @ price 2487.26 position_value 0.946open short @ price 2487.26 position_value 0.946
+open short @ price 2612.17 position_value 0.901
+close long @ price 2596.01 profit -0.004 position_value 0.913close long @ price 2596.01 profit -0.004 position_value 0.913
+close short @ price 2611.98 profit 0.000 position_value 0.900
+
+close short @ price 2491.37 profit -0.002 position_value 0.944
+open short @ price 2596.01 position_value 0.913
+
+open long @ price 2611.98 position_value 0.900
+close short @ price 2598.93 profit -0.001 position_value 0.911close short @ price 2598.93 profit -0.001 position_value 0.911
+close long @ price 2605.72 profit -0.002 position_value 0.897
+open long @ price 2598.93 position_value 0.911open long @ price 2598.93 position_value 0.911
+open short @ price 2605.72 position_value 0.897
+
+open long @ price 2492.84 position_value 0.935
+close short @ price 2571.18 profit 0.013 position_value 0.909close short @ price 2571.18 profit 0.013 position_value 0.909
+close long @ price 2613.72 profit 0.006 position_value 0.916
+
+close long @ price 2482.64 profit -0.004 position_value 0.931
+open long @ price 2571.18 position_value 0.908
+
+open short @ price 2482.64 position_value 0.930open short @ price 2482.64 position_value 0.930
+open short @ price 2613.72 position_value 0.915
+close long @ price 2572.85 profit 0.001 position_value 0.908close long @ price 2572.85 profit 0.001 position_value 0.908
+close short @ price 2616.82 profit -0.001 position_value 0.914
+
+close short @ price 2487.03 profit -0.002 position_value 0.928
+open short @ price 2572.85 position_value 0.908open short @ price 2572.85 position_value 0.908
+open long @ price 2616.82 position_value 0.914
+
+open long @ price 2487.03 position_value 0.928
+close long @ price 2610.01 profit -0.003 position_value 0.911close long @ price 2610.01 profit -0.003 position_value 0.911
+open long @ price 2491.96 position_value 0.938
+
+close long @ price 2483.57 profit -0.001 position_value 0.926
+open short @ price 2610.01 position_value 0.911open short @ price 2610.01 position_value 0.911
+close long @ price 2514.14 profit 0.009 position_value 0.946
+
+open short @ price 2483.57 position_value 0.926
+open short @ price 2514.14 position_value 0.946open short @ price 2514.14 position_value 0.946
+close short @ price 2610.53 profit -0.000 position_value 0.910
+
+close short @ price 2478.75 profit 0.002 position_value 0.927
+open short @ price 2582.54 position_value 0.906open short @ price 2582.54 position_value 0.906
+open long @ price 2478.75 position_value 0.927
+
+open long @ price 2610.53 position_value 0.910
+close short @ price 2583.75 profit -0.000 position_value 0.905
+
+close long @ price 2469.41 profit -0.004 position_value 0.923
+open long @ price 2583.75 position_value 0.905open long @ price 2583.75 position_value 0.905
+open short @ price 2469.41 position_value 0.923
+close long @ price 2585.86 profit 0.001 position_value 0.905close long @ price 2585.86 profit 0.001 position_value 0.905
+open short @ price 2505.35 position_value 0.945
+
+close short @ price 2448.31 profit 0.009 position_value 0.930
+open short @ price 2585.86 position_value 0.905
+
+close short @ price 2501.32 profit 0.002 position_value 0.946close short @ price 2501.32 profit 0.002 position_value 0.946
+open long @ price 2448.31 position_value 0.930
+close short @ price 2592.19 profit -0.002 position_value 0.902close short @ price 2592.19 profit -0.002 position_value 0.902
+open long @ price 2501.32 position_value 0.946
+
+close long @ price 2474.22 profit 0.011 position_value 0.939
+open long @ price 2592.19 position_value 0.902open long @ price 2592.19 position_value 0.902
+open short @ price 2474.22 position_value 0.939
+
+close long @ price 2499.57 profit -0.001 position_value 0.944
+close long @ price 2602.17 profit 0.004 position_value 0.905close long @ price 2602.17 profit 0.004 position_value 0.905
+close short @ price 2484.55 profit -0.004 position_value 0.935
+
+open short @ price 2499.57 position_value 0.944
+open short @ price 2602.17 position_value 0.904open short @ price 2602.17 position_value 0.904
+open long @ price 2484.55 position_value 0.934
+
+close short @ price 2501.55 profit -0.001 position_value 0.943
+close short @ price 2604.69 profit -0.001 position_value 0.903close short @ price 2604.69 profit -0.001 position_value 0.903
+close long @ price 2487.26 profit 0.001 position_value 0.935
+
+open long @ price 2501.55 position_value 0.943
+open short @ price 2487.26 position_value 0.934
+
+open long @ price 2604.69 position_value 0.903
+close short @ price 2491.37 profit -0.002 position_value 0.932close short @ price 2491.37 profit -0.002 position_value 0.932close short @ price 2491.37 profit -0.002 position_value 0.932close short @ price 2491.37 profit -0.002 position_value 0.932
+
+
+
+close long @ price 2632.08 profit 0.003 position_value 0.907
+close long @ price 2486.83 profit -0.002 position_value 0.930close long @ price 2486.83 profit -0.002 position_value 0.930close long @ price 2486.83 profit -0.002 position_value 0.930close long @ price 2486.83 profit -0.002 position_value 0.930
+
+
+
+open short @ price 2486.83 position_value 0.930open short @ price 2486.83 position_value 0.930
+close short @ price 2628.81 profit 0.001 position_value 0.908
+close short @ price 2491.96 profit -0.002 position_value 0.927close short @ price 2491.96 profit -0.002 position_value 0.927
+close short @ price 2499.95 profit -0.003 position_value 0.936
+
+open long @ price 2628.81 position_value 0.907
+open long @ price 2499.95 position_value 0.935
+
+close short @ price 2600.12 profit 0.002 position_value 0.904close short @ price 2600.12 profit 0.002 position_value 0.904
+close long @ price 2626.78 profit -0.001 position_value 0.906
+close long @ price 2500.17 profit 0.000 position_value 0.935close long @ price 2500.17 profit 0.000 position_value 0.935
+open long @ price 2600.12 position_value 0.904
+
+open short @ price 2626.78 position_value 0.906
+open short @ price 2517.99 position_value 0.936open short @ price 2517.99 position_value 0.936
+close long @ price 2597.24 profit -0.001 position_value 0.903
+
+close short @ price 2632.33 profit -0.002 position_value 0.904
+open short @ price 2597.24 position_value 0.902open short @ price 2597.24 position_value 0.902
+open long @ price 2632.33 position_value 0.903
+
+close short @ price 2502.06 profit -0.001 position_value 0.934
+close short @ price 2599.68 profit -0.001 position_value 0.901close short @ price 2599.68 profit -0.001 position_value 0.901
+open long @ price 2502.06 position_value 0.933
+
+close long @ price 2630.86 profit -0.001 position_value 0.902
+open long @ price 2599.68 position_value 0.901open long @ price 2599.68 position_value 0.901
+open short @ price 2630.86 position_value 0.902
+
+close long @ price 2503.57 profit 0.001 position_value 0.933
+open short @ price 2513.50 position_value 0.935
+open short @ price 2599.02 position_value 0.900open short @ price 2599.02 position_value 0.900open short @ price 2599.02 position_value 0.900
+
+
+
+close short @ price 2626.90 profit 0.002 position_value 0.903close short @ price 2626.90 profit 0.002 position_value 0.903close short @ price 2626.90 profit 0.002 position_value 0.903
+
+
+open long @ price 2600.15 position_value 0.899open long @ price 2600.15 position_value 0.899open long @ price 2600.15 position_value 0.899
+
+
+close long @ price 2505.35 profit -0.001 position_value 0.934close long @ price 2505.35 profit -0.001 position_value 0.934close long @ price 2505.35 profit -0.001 position_value 0.934close long @ price 2505.35 profit -0.001 position_value 0.934
+
+close long @ price 2501.97 profit -0.002 position_value 0.928
+open short @ price 2505.35 position_value 0.933
+
+open short @ price 2501.97 position_value 0.928
+close short @ price 2501.32 profit 0.002 position_value 0.935close short @ price 2501.32 profit 0.002 position_value 0.935
+close short @ price 2503.36 profit -0.001 position_value 0.927
+
+close long @ price 2616.34 profit -0.004 position_value 0.899
+open long @ price 2501.32 position_value 0.934open long @ price 2501.32 position_value 0.934
+open long @ price 2503.36 position_value 0.927
+
+open short @ price 2616.34 position_value 0.898
+open long @ price 2595.50 position_value 0.893
+
+close long @ price 2503.03 profit -0.000 position_value 0.926close long @ price 2503.03 profit -0.000 position_value 0.926close long @ price 2503.03 profit -0.000 position_value 0.926
+close short @ price 2501.55 profit -0.001 position_value 0.932
+open long @ price 2501.55 position_value 0.931
+close long @ price 2594.74 profit -0.000 position_value 0.893close long @ price 2594.74 profit -0.000 position_value 0.893
+
+
+
+close long @ price 2492.99 profit -0.003 position_value 0.928close long @ price 2492.99 profit -0.003 position_value 0.928close long @ price 2492.99 profit -0.003 position_value 0.928close long @ price 2492.99 profit -0.003 position_value 0.928
+close short @ price 2470.11 profit 0.013 position_value 0.938
+
+
+
+open long @ price 2470.11 position_value 0.937open long @ price 2470.11 position_value 0.937open long @ price 2470.11 position_value 0.937
+
+
+close short @ price 2499.95 profit -0.003 position_value 0.924close short @ price 2499.95 profit -0.003 position_value 0.924close short @ price 2499.95 profit -0.003 position_value 0.924
+
+
+open short @ price 2611.18 position_value 0.893
+open long @ price 2499.95 position_value 0.924open long @ price 2499.95 position_value 0.924open long @ price 2499.95 position_value 0.924
+
+
+close short @ price 2614.09 profit -0.001 position_value 0.892close short @ price 2614.09 profit -0.001 position_value 0.892close short @ price 2614.09 profit -0.001 position_value 0.892
+
+
+close short @ price 2603.88 profit -0.004 position_value 0.882close short @ price 2603.88 profit -0.004 position_value 0.882close short @ price 2603.88 profit -0.004 position_value 0.882close short @ price 2603.88 profit -0.004 position_value 0.882
+
+
+
+open long @ price 2614.09 position_value 0.891
+close long @ price 2606.42 profit 0.001 position_value 0.882close long @ price 2606.42 profit 0.001 position_value 0.882
+close long @ price 2608.95 profit -0.002 position_value 0.889
+close short @ price 2502.06 profit -0.001 position_value 0.922close short @ price 2502.06 profit -0.001 position_value 0.922
+open short @ price 2606.42 position_value 0.882
+
+open short @ price 2608.95 position_value 0.889
+close short @ price 2608.49 profit -0.001 position_value 0.881close short @ price 2608.49 profit -0.001 position_value 0.881
+close long @ price 2493.39 profit -0.000 position_value 0.941
+
+close short @ price 2616.36 profit -0.003 position_value 0.886
+open short @ price 2493.39 position_value 0.941open short @ price 2493.39 position_value 0.941
+open long @ price 2616.36 position_value 0.886
+
+close long @ price 2506.90 profit 0.002 position_value 0.923
+close long @ price 2602.53 profit -0.002 position_value 0.878close long @ price 2602.53 profit -0.002 position_value 0.878
+open short @ price 2506.90 position_value 0.923
+
+close long @ price 2619.13 profit 0.001 position_value 0.886
+open short @ price 2602.53 position_value 0.877open short @ price 2602.53 position_value 0.877
+open short @ price 2619.13 position_value 0.886
+
+close short @ price 2507.39 profit -0.000 position_value 0.922
+close short @ price 2599.69 profit 0.001 position_value 0.878close short @ price 2599.69 profit 0.001 position_value 0.878
+close short @ price 2624.11 profit -0.002 position_value 0.884
+
+open long @ price 2507.39 position_value 0.922
+open long @ price 2599.69 position_value 0.878
+
+open long @ price 2624.11 position_value 0.883open long @ price 2624.11 position_value 0.883
+close long @ price 2505.76 profit -0.001 position_value 0.921
+close long @ price 2598.38 profit -0.001 position_value 0.877close long @ price 2598.38 profit -0.001 position_value 0.877
+close long @ price 2617.92 profit -0.002 position_value 0.881
+
+open short @ price 2505.76 position_value 0.921
+open short @ price 2617.92 position_value 0.881
+
+open short @ price 2598.38 position_value 0.877open short @ price 2598.38 position_value 0.877open short @ price 2598.38 position_value 0.877
+
+
+close short @ price 2507.50 profit -0.001 position_value 0.920
+close short @ price 2600.42 profit -0.001 position_value 0.876close short @ price 2600.42 profit -0.001 position_value 0.876close short @ price 2600.42 profit -0.001 position_value 0.876close short @ price 2600.42 profit -0.001 position_value 0.876
+
+
+
+open long @ price 2625.84 position_value 0.877
+close long @ price 2598.37 profit -0.001 position_value 0.874close long @ price 2598.37 profit -0.001 position_value 0.874close long @ price 2598.37 profit -0.001 position_value 0.874
+
+
+close long @ price 2626.89 profit 0.000 position_value 0.877
+open short @ price 2598.37 position_value 0.874open short @ price 2598.37 position_value 0.874
+open short @ price 2626.89 position_value 0.877
+close short @ price 2603.12 profit -0.002 position_value 0.872close short @ price 2603.12 profit -0.002 position_value 0.872
+close long @ price 2488.30 profit -0.000 position_value 0.938
+
+close short @ price 2622.03 profit 0.002 position_value 0.878
+open short @ price 2488.30 position_value 0.937
+
+open long @ price 2603.12 position_value 0.872
+close short @ price 2481.20 profit 0.003 position_value 0.940close short @ price 2481.20 profit 0.003 position_value 0.940close short @ price 2481.20 profit 0.003 position_value 0.940
+
+
+close long @ price 2597.97 profit -0.002 position_value 0.869
+open long @ price 2481.20 position_value 0.939open long @ price 2481.20 position_value 0.939
+open short @ price 2597.97 position_value 0.869
+close long @ price 2484.67 profit 0.001 position_value 0.940
+close long @ price 2619.23 profit -0.001 position_value 0.877
+open short @ price 2619.23 position_value 0.876
+close short @ price 2593.00 profit 0.002 position_value 0.870close short @ price 2593.00 profit 0.002 position_value 0.870
+close short @ price 2623.51 profit -0.002 position_value 0.874
+
+close long @ price 2503.03 profit -0.000 position_value 0.915
+open long @ price 2623.51 position_value 0.874
+
+open short @ price 2484.67 position_value 0.940
+close long @ price 2626.42 profit 0.001 position_value 0.875
+open short @ price 2594.81 position_value 0.870open short @ price 2594.81 position_value 0.870open short @ price 2594.81 position_value 0.870
+
+
+open short @ price 2626.42 position_value 0.874
+close short @ price 2577.55 profit 0.007 position_value 0.875close short @ price 2577.55 profit 0.007 position_value 0.875close short @ price 2577.55 profit 0.007 position_value 0.875close short @ price 2577.55 profit 0.007 position_value 0.875
+close short @ price 2497.51 profit 0.002 position_value 0.916
+
+
+
+open long @ price 2497.51 position_value 0.916
+close long @ price 2487.55 profit -0.001 position_value 0.936close long @ price 2487.55 profit -0.001 position_value 0.936close long @ price 2487.55 profit -0.001 position_value 0.936close long @ price 2487.55 profit -0.001 position_value 0.936
+
+
+
+open short @ price 2487.55 position_value 0.936open short @ price 2487.55 position_value 0.936
+open short @ price 2496.50 position_value 0.915
+close long @ price 2616.31 profit -0.001 position_value 0.874close long @ price 2616.31 profit -0.001 position_value 0.874
+close short @ price 2493.48 profit -0.002 position_value 0.933
+
+close short @ price 2467.18 profit 0.012 position_value 0.925
+open short @ price 2574.67 position_value 0.873
+
+open long @ price 2493.48 position_value 0.933open long @ price 2493.48 position_value 0.933open long @ price 2493.48 position_value 0.933open long @ price 2493.48 position_value 0.933
+
+
+
+close long @ price 2488.67 profit -0.002 position_value 0.931
+open long @ price 2479.84 position_value 0.905open long @ price 2479.84 position_value 0.905open long @ price 2479.84 position_value 0.905
+
+
+open short @ price 2488.67 position_value 0.930
+close long @ price 2483.99 profit 0.002 position_value 0.906close long @ price 2483.99 profit 0.002 position_value 0.906
+close short @ price 2483.05 profit 0.002 position_value 0.932
+open short @ price 2483.99 position_value 0.906
+
+open short @ price 2605.79 position_value 0.873open short @ price 2605.79 position_value 0.873
+open long @ price 2483.05 position_value 0.932
+close short @ price 2492.84 profit -0.004 position_value 0.902close short @ price 2492.84 profit -0.004 position_value 0.902
+close long @ price 2478.45 profit -0.002 position_value 0.929
+
+close short @ price 2599.35 profit 0.002 position_value 0.874
+close short @ price 2493.51 profit -0.001 position_value 0.931close short @ price 2493.51 profit -0.001 position_value 0.931
+open long @ price 2599.35 position_value 0.874
+
+open short @ price 2478.45 position_value 0.929
+open long @ price 2493.51 position_value 0.930open long @ price 2493.51 position_value 0.930
+close short @ price 2479.55 profit -0.000 position_value 0.928
+
+close long @ price 2617.98 profit 0.007 position_value 0.880
+open long @ price 2479.55 position_value 0.928open long @ price 2479.55 position_value 0.928
+close long @ price 2493.39 profit -0.000 position_value 0.930
+
+open short @ price 2617.98 position_value 0.880
+close long @ price 2474.11 profit -0.002 position_value 0.925close long @ price 2474.11 profit -0.002 position_value 0.925
+close short @ price 2603.72 profit 0.005 position_value 0.884
+
+open short @ price 2493.39 position_value 0.930
+open short @ price 2474.11 position_value 0.925open short @ price 2474.11 position_value 0.925
+close short @ price 2496.61 profit -0.001 position_value 0.928
+
+open long @ price 2603.72 position_value 0.884
+close short @ price 2468.71 profit 0.002 position_value 0.927close short @ price 2468.71 profit 0.002 position_value 0.927
+open long @ price 2496.61 position_value 0.928
+
+close long @ price 2597.84 profit -0.002 position_value 0.881
+open long @ price 2468.71 position_value 0.926
+
+close long @ price 2498.55 profit 0.001 position_value 0.928close long @ price 2498.55 profit 0.001 position_value 0.928close long @ price 2498.55 profit 0.001 position_value 0.928close long @ price 2498.55 profit 0.001 position_value 0.928
+
+
+
+close long @ price 2494.90 profit 0.011 position_value 0.936close long @ price 2494.90 profit 0.011 position_value 0.936
+close short @ price 2604.20 profit -0.002 position_value 0.878
+close short @ price 2493.38 profit 0.002 position_value 0.929close short @ price 2493.38 profit 0.002 position_value 0.929
+open long @ price 2604.20 position_value 0.878
+
+open short @ price 2494.90 position_value 0.935
+open long @ price 2493.38 position_value 0.929
+
+close long @ price 2598.71 profit -0.002 position_value 0.876close long @ price 2598.71 profit -0.002 position_value 0.876
+close short @ price 2494.96 profit -0.000 position_value 0.935
+open short @ price 2598.71 position_value 0.876
+
+close long @ price 2491.07 profit -0.001 position_value 0.928close long @ price 2491.07 profit -0.001 position_value 0.928close long @ price 2491.07 profit -0.001 position_value 0.928close long @ price 2491.07 profit -0.001 position_value 0.928
+
+
+
+open short @ price 2491.07 position_value 0.927open short @ price 2491.07 position_value 0.927
+close long @ price 2493.66 profit -0.001 position_value 0.934
+close short @ price 2489.40 profit 0.001 position_value 0.927close short @ price 2489.40 profit 0.001 position_value 0.927
+open long @ price 2587.18 position_value 0.879
+
+open short @ price 2493.66 position_value 0.933
+open long @ price 2489.40 position_value 0.927open long @ price 2489.40 position_value 0.927
+close short @ price 2501.34 profit -0.003 position_value 0.930
+
+close long @ price 2583.08 profit -0.002 position_value 0.877
+close long @ price 2488.30 profit -0.000 position_value 0.926close long @ price 2488.30 profit -0.000 position_value 0.926
+open short @ price 2583.08 position_value 0.877
+
+open long @ price 2501.34 position_value 0.930
+open short @ price 2488.30 position_value 0.926open short @ price 2488.30 position_value 0.926
+close long @ price 2514.44 profit 0.005 position_value 0.934
+
+close short @ price 2587.46 profit -0.002 position_value 0.875
+close short @ price 2488.20 profit 0.000 position_value 0.926close short @ price 2488.20 profit 0.000 position_value 0.926
+open long @ price 2587.46 position_value 0.874
+
+open short @ price 2514.44 position_value 0.934
+close long @ price 2476.38 profit 0.011 position_value 0.893
+
+close long @ price 2590.93 profit 0.001 position_value 0.875
+open short @ price 2476.38 position_value 0.893
+open short @ price 2484.85 position_value 0.923open short @ price 2484.85 position_value 0.923
+close short @ price 2484.55 profit -0.003 position_value 0.890
+close short @ price 2481.20 profit 0.001 position_value 0.924close short @ price 2481.20 profit 0.001 position_value 0.924
+open long @ price 2484.55 position_value 0.889
+
+close short @ price 2517.72 profit -0.001 position_value 0.932
+open long @ price 2481.20 position_value 0.924open long @ price 2481.20 position_value 0.924
+open long @ price 2517.72 position_value 0.932
+
+close long @ price 2487.26 profit 0.001 position_value 0.890
+close short @ price 2596.84 profit -0.002 position_value 0.873close short @ price 2596.84 profit -0.002 position_value 0.873
+close long @ price 2505.90 profit -0.005 position_value 0.927
+
+open short @ price 2487.26 position_value 0.890
+open long @ price 2596.84 position_value 0.872open long @ price 2596.84 position_value 0.872
+close short @ price 2491.37 profit -0.002 position_value 0.888
+
+open short @ price 2505.90 position_value 0.927
+close long @ price 2593.33 profit -0.001 position_value 0.871close long @ price 2593.33 profit -0.001 position_value 0.871
+open long @ price 2491.37 position_value 0.887
+
+close short @ price 2511.85 profit -0.002 position_value 0.924
+open long @ price 2489.62 position_value 0.922
+
+open long @ price 2511.85 position_value 0.924open long @ price 2511.85 position_value 0.924
+close long @ price 2488.39 profit -0.001 position_value 0.886
+close long @ price 2487.55 profit -0.001 position_value 0.921close long @ price 2487.55 profit -0.001 position_value 0.921
+close long @ price 2513.19 profit 0.001 position_value 0.924
+
+open short @ price 2488.39 position_value 0.886
+open short @ price 2487.55 position_value 0.920open short @ price 2487.55 position_value 0.920
+close short @ price 2491.96 profit -0.001 position_value 0.884
+
+open short @ price 2513.19 position_value 0.924
+open long @ price 2491.96 position_value 0.884
+
+close short @ price 2493.48 profit -0.002 position_value 0.918close short @ price 2493.48 profit -0.002 position_value 0.918close short @ price 2493.48 profit -0.002 position_value 0.918
+
+
+close short @ price 2518.10 profit -0.002 position_value 0.922close short @ price 2518.10 profit -0.002 position_value 0.922
+open long @ price 2602.60 position_value 0.867
+close long @ price 2609.98 profit 0.003 position_value 0.869close long @ price 2609.98 profit 0.003 position_value 0.869
+open long @ price 2493.48 position_value 0.917
+
+open long @ price 2518.10 position_value 0.921
+open short @ price 2522.69 position_value 0.894
+
+close long @ price 2493.44 profit -0.000 position_value 0.917
+close short @ price 2515.40 profit 0.003 position_value 0.896
+open long @ price 2615.31 position_value 0.866
+close long @ price 2532.45 profit 0.006 position_value 0.926close long @ price 2532.45 profit 0.006 position_value 0.926
+close long @ price 2612.17 profit -0.001 position_value 0.865
+open short @ price 2493.44 position_value 0.917
+
+open short @ price 2532.45 position_value 0.926
+close short @ price 2495.64 profit -0.001 position_value 0.915
+close long @ price 2510.93 profit -0.002 position_value 0.894close long @ price 2510.93 profit -0.002 position_value 0.894close long @ price 2510.93 profit -0.002 position_value 0.894
+
+
+open long @ price 2495.64 position_value 0.915
+open short @ price 2510.93 position_value 0.893
+close short @ price 2611.98 profit 0.000 position_value 0.864
+open long @ price 2540.22 position_value 0.922
+close long @ price 2492.58 profit -0.001 position_value 0.914close long @ price 2492.58 profit -0.001 position_value 0.914close long @ price 2492.58 profit -0.001 position_value 0.914close long @ price 2492.58 profit -0.001 position_value 0.914
+
+
+
+open short @ price 2492.58 position_value 0.913open short @ price 2492.58 position_value 0.913
+open short @ price 2534.06 position_value 0.919
+open long @ price 2509.03 position_value 0.893
+
+close short @ price 2481.19 profit 0.005 position_value 0.917
+close long @ price 2505.35 profit -0.001 position_value 0.892close long @ price 2505.35 profit -0.001 position_value 0.892
+open long @ price 2481.19 position_value 0.917
+open short @ price 2605.72 position_value 0.861open short @ price 2605.72 position_value 0.861
+close long @ price 2478.45 profit -0.001 position_value 0.915
+
+open short @ price 2505.35 position_value 0.891
+open short @ price 2478.45 position_value 0.915
+
+close short @ price 2539.90 profit -0.002 position_value 0.917close short @ price 2539.90 profit -0.002 position_value 0.917close short @ price 2539.90 profit -0.002 position_value 0.917
+
+
+close short @ price 2503.00 profit 0.001 position_value 0.892close short @ price 2503.00 profit 0.001 position_value 0.892
+open short @ price 2570.69 position_value 0.871
+open long @ price 2503.00 position_value 0.891open long @ price 2503.00 position_value 0.891
+open long @ price 2539.90 position_value 0.916
+
+close short @ price 2576.01 profit -0.002 position_value 0.869
+close long @ price 2499.57 profit -0.001 position_value 0.890close long @ price 2499.57 profit -0.001 position_value 0.890
+open long @ price 2576.01 position_value 0.868
+
+close long @ price 2547.14 profit 0.003 position_value 0.918
+open short @ price 2499.57 position_value 0.890
+
+close long @ price 2572.85 profit -0.001 position_value 0.867close long @ price 2572.85 profit -0.001 position_value 0.867
+open short @ price 2547.14 position_value 0.918
+open short @ price 2572.85 position_value 0.866open short @ price 2572.85 position_value 0.866
+close short @ price 2545.27 profit 0.001 position_value 0.918
+
+close short @ price 2501.55 profit -0.001 position_value 0.888
+close short @ price 2574.32 profit -0.001 position_value 0.866close short @ price 2574.32 profit -0.001 position_value 0.866
+open long @ price 2501.55 position_value 0.888
+
+open long @ price 2545.27 position_value 0.918
+close long @ price 2504.07 profit 0.001 position_value 0.889close long @ price 2504.07 profit 0.001 position_value 0.889
+open long @ price 2468.71 position_value 0.912
+
+close long @ price 2543.50 profit -0.001 position_value 0.917
+close long @ price 2582.54 profit 0.003 position_value 0.868close long @ price 2582.54 profit 0.003 position_value 0.868
+close long @ price 2494.90 profit 0.011 position_value 0.922
+
+open short @ price 2543.50 position_value 0.917
+open short @ price 2494.90 position_value 0.921open short @ price 2494.90 position_value 0.921
+close short @ price 2543.84 profit -0.000 position_value 0.916
+
+close short @ price 2504.20 profit -0.000 position_value 0.888
+close short @ price 2501.34 profit -0.003 position_value 0.919
+
+open long @ price 2504.20 position_value 0.888open long @ price 2504.20 position_value 0.888open long @ price 2504.20 position_value 0.888
+
+
+open long @ price 2543.84 position_value 0.916
+close long @ price 2492.99 profit -0.004 position_value 0.883close long @ price 2492.99 profit -0.004 position_value 0.883
+close long @ price 2537.20 profit -0.003 position_value 0.913
+open short @ price 2492.99 position_value 0.883
+
+close long @ price 2515.75 profit 0.006 position_value 0.923
+close short @ price 2499.95 profit -0.003 position_value 0.880close short @ price 2499.95 profit -0.003 position_value 0.880close short @ price 2499.95 profit -0.003 position_value 0.880close short @ price 2499.95 profit -0.003 position_value 0.880
+
+
+
+open long @ price 2499.95 position_value 0.880open long @ price 2499.95 position_value 0.880
+close short @ price 2517.72 profit -0.001 position_value 0.922
+close long @ price 2506.90 profit 0.003 position_value 0.882close long @ price 2506.90 profit 0.003 position_value 0.882
+open long @ price 2583.75 position_value 0.863
+
+open long @ price 2517.72 position_value 0.921
+close long @ price 2586.93 profit 0.001 position_value 0.864close long @ price 2586.93 profit 0.001 position_value 0.864
+close long @ price 2505.90 profit -0.005 position_value 0.917
+
+open short @ price 2506.90 position_value 0.881
+open long @ price 2532.70 position_value 0.914open long @ price 2532.70 position_value 0.914
+open short @ price 2505.90 position_value 0.916
+
+close short @ price 2507.50 profit -0.000 position_value 0.881
+close short @ price 2511.85 profit -0.002 position_value 0.914
+
+close long @ price 2531.15 profit -0.001 position_value 0.913close long @ price 2531.15 profit -0.001 position_value 0.913
+open long @ price 2507.50 position_value 0.881
+open long @ price 2511.85 position_value 0.913open long @ price 2511.85 position_value 0.913
+open short @ price 2531.15 position_value 0.912
+
+close long @ price 2501.97 profit -0.002 position_value 0.878
+close short @ price 2509.66 profit 0.008 position_value 0.920
+
+close long @ price 2513.08 profit 0.000 position_value 0.913close long @ price 2513.08 profit 0.000 position_value 0.913close long @ price 2513.08 profit 0.000 position_value 0.913
+
+
+open short @ price 2501.97 position_value 0.878open short @ price 2501.97 position_value 0.878
+open long @ price 2592.19 position_value 0.860
+close short @ price 2502.35 profit -0.000 position_value 0.877close short @ price 2502.35 profit -0.000 position_value 0.877
+close long @ price 2604.32 profit 0.005 position_value 0.864
+
+open short @ price 2513.08 position_value 0.913
+open short @ price 2604.32 position_value 0.863
+
+close long @ price 2507.83 profit -0.001 position_value 0.918close long @ price 2507.83 profit -0.001 position_value 0.918
+close short @ price 2515.03 profit -0.001 position_value 0.912
+close short @ price 2598.56 profit 0.002 position_value 0.865close short @ price 2598.56 profit 0.002 position_value 0.865
+open short @ price 2507.83 position_value 0.918
+
+open long @ price 2515.03 position_value 0.912
+close short @ price 2508.72 profit -0.000 position_value 0.917
+
+open short @ price 2503.03 position_value 0.877
+open long @ price 2508.72 position_value 0.917open long @ price 2508.72 position_value 0.917
+close short @ price 2498.13 profit 0.002 position_value 0.878
+open short @ price 2597.74 position_value 0.864open short @ price 2597.74 position_value 0.864
+open long @ price 2498.13 position_value 0.878
+
+close long @ price 2508.52 profit -0.000 position_value 0.916
+close long @ price 2496.50 profit -0.001 position_value 0.877close long @ price 2496.50 profit -0.001 position_value 0.877
+close long @ price 2513.19 profit -0.001 position_value 0.911
+
+open short @ price 2508.52 position_value 0.916
+open short @ price 2513.19 position_value 0.910
+
+open long @ price 2604.69 position_value 0.861
+close short @ price 2518.10 profit -0.002 position_value 0.908
+open long @ price 2493.54 position_value 0.877open long @ price 2493.54 position_value 0.877open long @ price 2493.54 position_value 0.877
+
+
+open long @ price 2518.10 position_value 0.908
+close long @ price 2490.84 profit -0.001 position_value 0.875
+open long @ price 2509.35 position_value 0.915open long @ price 2509.35 position_value 0.915
+open short @ price 2490.84 position_value 0.875
+open short @ price 2612.05 position_value 0.862open short @ price 2612.05 position_value 0.862
+close long @ price 2505.28 profit -0.002 position_value 0.913
+
+close short @ price 2467.18 profit 0.009 position_value 0.883
+close long @ price 2536.91 profit 0.007 position_value 0.914close long @ price 2536.91 profit 0.007 position_value 0.914
+open short @ price 2505.28 position_value 0.913
+
+open long @ price 2467.18 position_value 0.883
+open short @ price 2536.91 position_value 0.914open short @ price 2536.91 position_value 0.914
+close long @ price 2606.48 profit -0.003 position_value 0.859
+
+close short @ price 2499.73 profit 0.002 position_value 0.914
+close short @ price 2540.22 profit -0.001 position_value 0.912close short @ price 2540.22 profit -0.001 position_value 0.912
+open long @ price 2499.73 position_value 0.914
+
+open short @ price 2606.48 position_value 0.858
+open long @ price 2540.22 position_value 0.912
+
+close long @ price 2502.89 profit 0.001 position_value 0.915close long @ price 2502.89 profit 0.001 position_value 0.915
+close short @ price 2606.86 profit -0.000 position_value 0.858
+close long @ price 2534.06 profit -0.002 position_value 0.909
+
+open short @ price 2502.89 position_value 0.915open short @ price 2502.89 position_value 0.915
+open long @ price 2606.86 position_value 0.857
+open short @ price 2534.06 position_value 0.909
+
+close short @ price 2504.08 profit -0.000 position_value 0.914close short @ price 2504.08 profit -0.000 position_value 0.914
+close long @ price 2605.96 profit -0.000 position_value 0.857
+close short @ price 2539.90 profit -0.002 position_value 0.906close short @ price 2539.90 profit -0.002 position_value 0.906
+open long @ price 2504.08 position_value 0.913
+
+open short @ price 2605.96 position_value 0.857
+close long @ price 2500.94 profit -0.001 position_value 0.912
+
+open short @ price 2488.10 position_value 0.886open short @ price 2488.10 position_value 0.886
+close short @ price 2600.12 profit 0.002 position_value 0.858
+open short @ price 2500.94 position_value 0.911open short @ price 2500.94 position_value 0.911
+close short @ price 2493.51 profit -0.002 position_value 0.884
+
+open long @ price 2600.12 position_value 0.858
+open long @ price 2493.51 position_value 0.883
+
+close short @ price 2502.54 profit -0.001 position_value 0.911close short @ price 2502.54 profit -0.001 position_value 0.911close short @ price 2502.54 profit -0.001 position_value 0.911close short @ price 2502.54 profit -0.001 position_value 0.911
+
+
+
+close long @ price 2493.39 profit -0.000 position_value 0.883
+close long @ price 2494.86 profit -0.003 position_value 0.907close long @ price 2494.86 profit -0.003 position_value 0.907close long @ price 2494.86 profit -0.003 position_value 0.907
+
+
+open short @ price 2493.39 position_value 0.883open short @ price 2493.39 position_value 0.883
+close short @ price 2600.15 profit -0.001 position_value 0.855
+close short @ price 2496.61 profit -0.001 position_value 0.881close short @ price 2496.61 profit -0.001 position_value 0.881
+open long @ price 2600.15 position_value 0.854
+
+open short @ price 2494.86 position_value 0.907
+open long @ price 2496.61 position_value 0.881open long @ price 2496.61 position_value 0.881
+close long @ price 2591.75 profit -0.003 position_value 0.851
+
+close short @ price 2496.29 profit -0.001 position_value 0.906
+close short @ price 2545.27 profit 0.001 position_value 0.902close short @ price 2545.27 profit 0.001 position_value 0.902
+open short @ price 2591.75 position_value 0.851
+
+open long @ price 2496.29 position_value 0.905
+open short @ price 2501.46 position_value 0.882open short @ price 2501.46 position_value 0.882
+close long @ price 2494.86 profit -0.001 position_value 0.904
+
+close short @ price 2595.50 profit -0.001 position_value 0.849
+open short @ price 2494.86 position_value 0.904open short @ price 2494.86 position_value 0.904
+open long @ price 2595.50 position_value 0.849
+
+close short @ price 2497.79 profit 0.001 position_value 0.883
+open long @ price 2497.79 position_value 0.882open long @ price 2497.79 position_value 0.882
+close long @ price 2593.32 profit -0.001 position_value 0.848
+
+open short @ price 2543.50 position_value 0.901
+open short @ price 2593.32 position_value 0.848open short @ price 2593.32 position_value 0.848
+close short @ price 2542.08 profit 0.001 position_value 0.901
+
+close long @ price 2496.86 profit -0.000 position_value 0.882
+close long @ price 2515.45 profit 0.006 position_value 0.906
+
+open long @ price 2542.08 position_value 0.900open long @ price 2542.08 position_value 0.900open long @ price 2542.08 position_value 0.900
+
+
+open short @ price 2496.86 position_value 0.881open short @ price 2496.86 position_value 0.881
+open long @ price 2523.46 position_value 0.902
+close long @ price 2539.92 profit -0.001 position_value 0.899close long @ price 2539.92 profit -0.001 position_value 0.899
+close short @ price 2493.38 profit 0.001 position_value 0.882
+
+close long @ price 2517.49 profit -0.002 position_value 0.900
+open short @ price 2539.92 position_value 0.899open short @ price 2539.92 position_value 0.899
+open short @ price 2517.49 position_value 0.900
+
+open long @ price 2493.38 position_value 0.882
+close short @ price 2543.84 profit -0.002 position_value 0.897close short @ price 2543.84 profit -0.002 position_value 0.897
+close long @ price 2491.07 profit -0.001 position_value 0.881
+
+close short @ price 2517.24 profit 0.000 position_value 0.899
+open long @ price 2543.84 position_value 0.897open long @ price 2543.84 position_value 0.897
+open long @ price 2517.24 position_value 0.899
+
+open short @ price 2491.07 position_value 0.880
+open long @ price 2603.88 position_value 0.840
+
+close long @ price 2515.79 profit -0.001 position_value 0.898close long @ price 2515.79 profit -0.001 position_value 0.898close long @ price 2515.79 profit -0.001 position_value 0.898
+
+
+close short @ price 2489.40 profit 0.001 position_value 0.881close short @ price 2489.40 profit 0.001 position_value 0.881
+open long @ price 2535.45 position_value 0.894
+open short @ price 2515.79 position_value 0.898open short @ price 2515.79 position_value 0.898
+open long @ price 2489.40 position_value 0.880
+
+close long @ price 2531.15 profit -0.002 position_value 0.892
+close long @ price 2488.30 profit -0.000 position_value 0.880close long @ price 2488.30 profit -0.000 position_value 0.880
+open short @ price 2531.15 position_value 0.891
+
+close short @ price 2495.00 profit 0.008 position_value 0.905
+open short @ price 2488.30 position_value 0.879
+
+close short @ price 2509.66 profit 0.008 position_value 0.899
+close short @ price 2488.20 profit 0.000 position_value 0.879close short @ price 2488.20 profit 0.000 position_value 0.879close short @ price 2488.20 profit 0.000 position_value 0.879
+
+
+open long @ price 2509.66 position_value 0.898open long @ price 2509.66 position_value 0.898open long @ price 2509.66 position_value 0.898open long @ price 2509.66 position_value 0.898
+
+
+
+close long @ price 2507.83 profit -0.001 position_value 0.897close long @ price 2507.83 profit -0.001 position_value 0.897
+open short @ price 2497.33 position_value 0.905
+close long @ price 2484.85 profit -0.001 position_value 0.877close long @ price 2484.85 profit -0.001 position_value 0.877
+open short @ price 2507.83 position_value 0.897
+close short @ price 2608.49 profit -0.001 position_value 0.836close short @ price 2608.49 profit -0.001 position_value 0.836
+
+
+
+close short @ price 2508.72 profit -0.000 position_value 0.896
+close short @ price 2479.61 profit 0.002 position_value 0.878close short @ price 2479.61 profit 0.002 position_value 0.878
+open long @ price 2508.72 position_value 0.896
+close long @ price 2602.53 profit -0.002 position_value 0.833close long @ price 2602.53 profit -0.002 position_value 0.833
+open long @ price 2479.61 position_value 0.878
+
+close long @ price 2508.52 profit -0.000 position_value 0.895
+open short @ price 2602.53 position_value 0.833open short @ price 2602.53 position_value 0.833
+open short @ price 2508.52 position_value 0.895
+
+close long @ price 2481.28 profit 0.001 position_value 0.878
+close short @ price 2600.58 profit 0.001 position_value 0.833close short @ price 2600.58 profit 0.001 position_value 0.833
+open short @ price 2481.28 position_value 0.878
+
+close short @ price 2509.35 profit -0.000 position_value 0.894
+close short @ price 2489.62 profit -0.003 position_value 0.874close short @ price 2489.62 profit -0.003 position_value 0.874
+open long @ price 2600.58 position_value 0.833
+
+open long @ price 2509.35 position_value 0.894
+open long @ price 2489.62 position_value 0.874open long @ price 2489.62 position_value 0.874
+close long @ price 2598.38 profit -0.001 position_value 0.832
+
+close long @ price 2505.28 profit -0.002 position_value 0.892
+close long @ price 2487.55 profit -0.001 position_value 0.873
+
+open short @ price 2598.38 position_value 0.831open short @ price 2598.38 position_value 0.831open short @ price 2598.38 position_value 0.831open short @ price 2598.38 position_value 0.831
+
+
+
+close short @ price 2600.42 profit -0.001 position_value 0.830close short @ price 2600.42 profit -0.001 position_value 0.830
+close short @ price 2499.73 profit 0.002 position_value 0.893
+close short @ price 2493.48 profit -0.002 position_value 0.870close short @ price 2493.48 profit -0.002 position_value 0.870
+open long @ price 2499.73 position_value 0.893
+
+open long @ price 2600.42 position_value 0.830
+close short @ price 2489.20 profit -0.001 position_value 0.897
+
+close long @ price 2500.86 profit 0.000 position_value 0.893close long @ price 2500.86 profit 0.000 position_value 0.893close long @ price 2500.86 profit 0.000 position_value 0.893
+
+
+close long @ price 2598.37 profit -0.001 position_value 0.829close long @ price 2598.37 profit -0.001 position_value 0.829close long @ price 2598.37 profit -0.001 position_value 0.829
+
+
+close short @ price 2495.64 profit -0.001 position_value 0.868close short @ price 2495.64 profit -0.001 position_value 0.868
+open short @ price 2489.37 position_value 0.896
+open short @ price 2598.37 position_value 0.829open short @ price 2598.37 position_value 0.829
+open long @ price 2495.64 position_value 0.868
+
+close short @ price 2494.30 profit -0.002 position_value 0.893
+close long @ price 2492.58 profit -0.001 position_value 0.866close long @ price 2492.58 profit -0.001 position_value 0.866
+close short @ price 2501.50 profit -0.000 position_value 0.892
+
+open long @ price 2494.30 position_value 0.893
+open long @ price 2501.50 position_value 0.892open long @ price 2501.50 position_value 0.892
+open short @ price 2492.58 position_value 0.866
+
+close long @ price 2507.77 profit 0.005 position_value 0.898
+close short @ price 2476.75 profit 0.006 position_value 0.871close short @ price 2476.75 profit 0.006 position_value 0.871
+open short @ price 2507.77 position_value 0.897
+open short @ price 2602.48 position_value 0.826open short @ price 2602.48 position_value 0.826
+
+close long @ price 2500.36 profit -0.000 position_value 0.891
+close short @ price 2511.24 profit -0.001 position_value 0.896
+close long @ price 2475.74 profit -0.000 position_value 0.870
+open short @ price 2500.36 position_value 0.891
+
+open short @ price 2475.74 position_value 0.870
+open long @ price 2511.24 position_value 0.895open long @ price 2511.24 position_value 0.895
+close short @ price 2501.71 profit -0.001 position_value 0.890
+
+close short @ price 2481.19 profit -0.002 position_value 0.867
+open long @ price 2481.19 position_value 0.867
+
+close long @ price 2509.67 profit -0.001 position_value 0.894close long @ price 2509.67 profit -0.001 position_value 0.894close long @ price 2509.67 profit -0.001 position_value 0.894close long @ price 2509.67 profit -0.001 position_value 0.894
+
+
+
+close long @ price 2597.97 profit -0.002 position_value 0.823close long @ price 2597.97 profit -0.002 position_value 0.823close long @ price 2597.97 profit -0.002 position_value 0.823close long @ price 2597.97 profit -0.002 position_value 0.823
+
+
+
+close short @ price 2505.72 profit 0.002 position_value 0.895close short @ price 2505.72 profit 0.002 position_value 0.895
+open short @ price 2502.89 position_value 0.889
+close short @ price 2590.54 profit 0.003 position_value 0.825
+
+open long @ price 2505.72 position_value 0.895
+open long @ price 2590.54 position_value 0.824
+close long @ price 2496.87 profit 0.011 position_value 0.878close long @ price 2496.87 profit 0.011 position_value 0.878
+close long @ price 2595.27 profit 0.002 position_value 0.825
+open short @ price 2496.87 position_value 0.877
+
+close short @ price 2504.08 profit -0.000 position_value 0.888close short @ price 2504.08 profit -0.000 position_value 0.888close short @ price 2504.08 profit -0.000 position_value 0.888close short @ price 2504.08 profit -0.000 position_value 0.888
+
+
+
+close short @ price 2497.93 profit -0.000 position_value 0.877close short @ price 2497.93 profit -0.000 position_value 0.877
+close short @ price 2585.85 profit 0.004 position_value 0.828
+close long @ price 2500.94 profit -0.001 position_value 0.887close long @ price 2500.94 profit -0.001 position_value 0.887
+open long @ price 2497.93 position_value 0.876
+
+open long @ price 2585.85 position_value 0.827
+close long @ price 2514.91 profit 0.007 position_value 0.882close long @ price 2514.91 profit 0.007 position_value 0.882
+close long @ price 2584.35 profit -0.001 position_value 0.827
+
+close short @ price 2514.44 profit -0.001 position_value 0.895
+open short @ price 2584.35 position_value 0.826open short @ price 2584.35 position_value 0.826
+open long @ price 2514.44 position_value 0.895
+
+close short @ price 2499.34 profit 0.001 position_value 0.886
+close short @ price 2579.25 profit 0.002 position_value 0.828close short @ price 2579.25 profit 0.002 position_value 0.828
+open long @ price 2499.34 position_value 0.886
+
+close long @ price 2519.78 profit 0.002 position_value 0.896
+open long @ price 2518.69 position_value 0.879
+
+close long @ price 2494.86 profit -0.002 position_value 0.884
+close long @ price 2514.44 profit -0.002 position_value 0.878close long @ price 2514.44 profit -0.002 position_value 0.878
+open short @ price 2494.86 position_value 0.884
+open short @ price 2574.67 position_value 0.825open short @ price 2574.67 position_value 0.825
+close short @ price 2496.29 profit -0.001 position_value 0.883
+
+open short @ price 2514.44 position_value 0.877
+open short @ price 2519.78 position_value 0.896
+
+open long @ price 2496.29 position_value 0.883open long @ price 2496.29 position_value 0.883open long @ price 2496.29 position_value 0.883
+
+
+close short @ price 2517.72 profit -0.001 position_value 0.876
+open long @ price 2517.72 position_value 0.875open long @ price 2517.72 position_value 0.875
+close long @ price 2494.86 profit -0.001 position_value 0.882
+close long @ price 2505.90 profit -0.005 position_value 0.871close long @ price 2505.90 profit -0.005 position_value 0.871
+open short @ price 2494.86 position_value 0.881
+
+open long @ price 2524.78 position_value 0.894
+close short @ price 2500.44 profit -0.002 position_value 0.879
+
+open short @ price 2505.90 position_value 0.871
+open long @ price 2500.44 position_value 0.879open long @ price 2500.44 position_value 0.879
+close short @ price 2508.93 profit -0.001 position_value 0.869
+open long @ price 2474.18 position_value 0.843
+
+close long @ price 2516.28 profit 0.006 position_value 0.884close long @ price 2516.28 profit 0.006 position_value 0.884
+open long @ price 2508.93 position_value 0.869open long @ price 2508.93 position_value 0.869
+
+
+close long @ price 2484.32 profit 0.004 position_value 0.846close long @ price 2484.32 profit 0.004 position_value 0.846
+open short @ price 2513.08 position_value 0.870
+open short @ price 2484.32 position_value 0.846open short @ price 2484.32 position_value 0.846
+close short @ price 2515.03 profit -0.001 position_value 0.869
+
+open short @ price 2526.70 position_value 0.894
+open long @ price 2515.03 position_value 0.868
+
+close short @ price 2492.84 profit -0.003 position_value 0.843
+close long @ price 2513.19 profit -0.001 position_value 0.867close long @ price 2513.19 profit -0.001 position_value 0.867
+open long @ price 2492.84 position_value 0.843
+open short @ price 2513.19 position_value 0.867open short @ price 2513.19 position_value 0.867
+close long @ price 2482.64 profit -0.004 position_value 0.839
+
+close long @ price 2517.49 profit -0.000 position_value 0.882
+open short @ price 2482.64 position_value 0.838
+
+close short @ price 2521.35 profit 0.002 position_value 0.895close short @ price 2521.35 profit 0.002 position_value 0.895close short @ price 2521.35 profit 0.002 position_value 0.895
+
+
+open short @ price 2517.49 position_value 0.882
+open long @ price 2521.35 position_value 0.895
+open long @ price 2487.08 position_value 0.836
+open short @ price 2536.91 position_value 0.870open short @ price 2536.91 position_value 0.870
+close short @ price 2517.24 profit 0.000 position_value 0.881
+close long @ price 2483.57 profit -0.001 position_value 0.835close long @ price 2483.57 profit -0.001 position_value 0.835
+open long @ price 2517.24 position_value 0.881
+
+close short @ price 2540.22 profit -0.001 position_value 0.869
+close long @ price 2520.96 profit -0.000 position_value 0.894
+
+close long @ price 2515.79 profit -0.001 position_value 0.880
+open short @ price 2520.96 position_value 0.894
+open long @ price 2478.75 position_value 0.835
+open long @ price 2540.22 position_value 0.868
+open short @ price 2515.79 position_value 0.880
+close short @ price 2522.89 profit -0.001 position_value 0.893
+close long @ price 2471.98 profit -0.003 position_value 0.833
+close long @ price 2534.06 profit -0.002 position_value 0.866close long @ price 2534.06 profit -0.002 position_value 0.866close long @ price 2534.06 profit -0.002 position_value 0.866
+
+
+open short @ price 2471.98 position_value 0.832
+open short @ price 2534.06 position_value 0.866
+open long @ price 2495.00 position_value 0.886
+close long @ price 2524.39 profit 0.001 position_value 0.893
+close short @ price 2447.34 profit 0.010 position_value 0.840
+close short @ price 2539.90 profit -0.002 position_value 0.863close short @ price 2539.90 profit -0.002 position_value 0.863
+open long @ price 2447.34 position_value 0.840
+open long @ price 2539.90 position_value 0.863open long @ price 2539.90 position_value 0.863
+close long @ price 2498.61 profit 0.001 position_value 0.887
+
+close long @ price 2438.65 profit -0.004 position_value 0.837
+open short @ price 2498.61 position_value 0.887
+
+open short @ price 2524.39 position_value 0.892
+close short @ price 2499.75 profit -0.000 position_value 0.886
+close short @ price 2544.48 profit -0.000 position_value 0.863close short @ price 2544.48 profit -0.000 position_value 0.863close short @ price 2544.48 profit -0.000 position_value 0.863
+
+
+open long @ price 2499.75 position_value 0.886open long @ price 2499.75 position_value 0.886
+open long @ price 2544.48 position_value 0.863
+close long @ price 2497.33 profit -0.001 position_value 0.885
+
+open long @ price 2520.36 position_value 0.893open long @ price 2520.36 position_value 0.893
+close long @ price 2543.28 profit -0.000 position_value 0.862
+close long @ price 2518.98 profit -0.001 position_value 0.892close long @ price 2518.98 profit -0.001 position_value 0.892
+open short @ price 2543.28 position_value 0.862
+
+open short @ price 2497.33 position_value 0.884
+open long @ price 2448.31 position_value 0.832open long @ price 2448.31 position_value 0.832
+close short @ price 2493.25 profit 0.002 position_value 0.885
+
+close short @ price 2549.61 profit -0.002 position_value 0.859
+close short @ price 2519.83 profit -0.000 position_value 0.891
+
+open long @ price 2493.25 position_value 0.885
+open long @ price 2519.83 position_value 0.891
+close short @ price 2471.81 profit -0.002 position_value 0.836close short @ price 2471.81 profit -0.002 position_value 0.836
+close long @ price 2513.20 profit -0.003 position_value 0.888
+open long @ price 2471.81 position_value 0.836open long @ price 2471.81 position_value 0.836
+open short @ price 2513.20 position_value 0.888
+
+open long @ price 2549.61 position_value 0.859
+close short @ price 2506.31 profit 0.003 position_value 0.890
+
+close long @ price 2487.23 profit -0.002 position_value 0.883close long @ price 2487.23 profit -0.002 position_value 0.883close long @ price 2487.23 profit -0.002 position_value 0.883
+
+
+close long @ price 2547.14 profit -0.001 position_value 0.858close long @ price 2547.14 profit -0.001 position_value 0.858
+open long @ price 2484.55 position_value 0.833
+open short @ price 2547.14 position_value 0.857open short @ price 2547.14 position_value 0.857
+close long @ price 2486.15 profit 0.001 position_value 0.833
+
+open short @ price 2487.23 position_value 0.882
+open short @ price 2486.15 position_value 0.833
+
+close long @ price 2502.11 profit -0.002 position_value 0.888close long @ price 2502.11 profit -0.002 position_value 0.888close long @ price 2502.11 profit -0.002 position_value 0.888
+
+
+close short @ price 2492.11 profit -0.002 position_value 0.880
+open short @ price 2502.11 position_value 0.887
+open long @ price 2489.28 position_value 0.831
+open short @ price 2539.92 position_value 0.857
+open long @ price 2492.11 position_value 0.880
+close short @ price 2504.13 profit -0.001 position_value 0.886close short @ price 2504.13 profit -0.001 position_value 0.886
+close long @ price 2487.57 profit -0.002 position_value 0.878
+open long @ price 2504.13 position_value 0.886
+
+close long @ price 2490.78 profit 0.001 position_value 0.831close long @ price 2490.78 profit 0.001 position_value 0.831
+open short @ price 2487.57 position_value 0.877
+open short @ price 2490.78 position_value 0.831
+
+close long @ price 2500.02 profit -0.002 position_value 0.884close long @ price 2500.02 profit -0.002 position_value 0.884
+close short @ price 2489.20 profit -0.001 position_value 0.877
+close short @ price 2491.37 profit -0.000 position_value 0.831
+
+open short @ price 2500.02 position_value 0.884
+open long @ price 2491.37 position_value 0.830
+open short @ price 2537.20 position_value 0.852
+open long @ price 2489.20 position_value 0.876
+close short @ price 2502.59 profit -0.001 position_value 0.882close short @ price 2502.59 profit -0.001 position_value 0.882
+close long @ price 2489.37 profit 0.000 position_value 0.876
+close long @ price 2488.39 profit -0.001 position_value 0.829close long @ price 2488.39 profit -0.001 position_value 0.829
+open short @ price 2489.37 position_value 0.876
+
+open long @ price 2502.59 position_value 0.882
+close short @ price 2494.30 profit -0.002 position_value 0.873
+
+close short @ price 2535.45 profit 0.001 position_value 0.852
+open long @ price 2494.30 position_value 0.873
+open long @ price 2491.96 position_value 0.827
+close long @ price 2502.06 profit -0.000 position_value 0.882
+open long @ price 2535.45 position_value 0.852
+close long @ price 2505.77 profit 0.005 position_value 0.877
+close long @ price 2509.05 profit 0.007 position_value 0.832close long @ price 2509.05 profit 0.007 position_value 0.832
+open short @ price 2505.77 position_value 0.876
+open short @ price 2502.06 position_value 0.881
+
+open short @ price 2509.05 position_value 0.832
+close short @ price 2508.09 profit -0.002 position_value 0.879
+open short @ price 2531.15 position_value 0.849
+close short @ price 2511.24 profit -0.002 position_value 0.874
+close short @ price 2511.15 profit -0.001 position_value 0.831
+open long @ price 2508.09 position_value 0.878
+close short @ price 2509.84 profit 0.008 position_value 0.856
+open long @ price 2511.24 position_value 0.874
+open long @ price 2511.15 position_value 0.830
+close long @ price 2502.95 profit -0.002 position_value 0.876
+open long @ price 2509.84 position_value 0.856
+close long @ price 2509.67 profit -0.001 position_value 0.873close long @ price 2509.67 profit -0.001 position_value 0.873
+
+close long @ price 2522.69 profit 0.005 position_value 0.834close long @ price 2522.69 profit 0.005 position_value 0.834
+open short @ price 2502.95 position_value 0.876
+open short @ price 2522.69 position_value 0.834
+
+close long @ price 2506.84 profit -0.001 position_value 0.854
+close short @ price 2515.40 profit 0.003 position_value 0.836
+open long @ price 2505.72 position_value 0.873open long @ price 2505.72 position_value 0.873
+open long @ price 2515.40 position_value 0.835
+close long @ price 2512.44 profit 0.003 position_value 0.875
+
+close short @ price 2492.44 profit 0.004 position_value 0.879close short @ price 2492.44 profit 0.004 position_value 0.879close short @ price 2492.44 profit 0.004 position_value 0.879
+
+
+close long @ price 2513.50 profit -0.001 position_value 0.834close long @ price 2513.50 profit -0.001 position_value 0.834
+open long @ price 2508.98 position_value 0.853
+open long @ price 2492.44 position_value 0.879
+
+open short @ price 2513.50 position_value 0.834
+close long @ price 2489.33 profit -0.001 position_value 0.877
+open long @ price 2514.44 position_value 0.873open long @ price 2514.44 position_value 0.873open long @ price 2514.44 position_value 0.873
+
+
+open short @ price 2489.33 position_value 0.877
+close long @ price 2519.78 profit 0.002 position_value 0.875
+open short @ price 2508.90 position_value 0.852
+open long @ price 2509.03 position_value 0.835
+close short @ price 2483.94 profit 0.002 position_value 0.879
+open short @ price 2519.78 position_value 0.875
+close short @ price 2509.66 profit -0.000 position_value 0.851
+close long @ price 2505.35 profit -0.001 position_value 0.833
+open long @ price 2483.94 position_value 0.878open long @ price 2483.94 position_value 0.878open long @ price 2483.94 position_value 0.878open long @ price 2483.94 position_value 0.878
+
+
+
+close short @ price 2524.78 profit -0.002 position_value 0.873close short @ price 2524.78 profit -0.002 position_value 0.873
+close short @ price 2503.00 profit 0.001 position_value 0.833
+open short @ price 2479.99 position_value 0.876
+
+open long @ price 2524.78 position_value 0.872open long @ price 2524.78 position_value 0.872
+open long @ price 2503.00 position_value 0.833
+close long @ price 2526.70 profit 0.001 position_value 0.873close long @ price 2526.70 profit 0.001 position_value 0.873
+close long @ price 2499.57 profit -0.001 position_value 0.832
+
+close short @ price 2478.61 profit 0.001 position_value 0.876
+open short @ price 2499.57 position_value 0.831
+
+open short @ price 2526.70 position_value 0.872
+close short @ price 2501.55 profit -0.001 position_value 0.830close short @ price 2501.55 profit -0.001 position_value 0.830close short @ price 2501.55 profit -0.001 position_value 0.830
+
+
+close short @ price 2518.56 profit 0.003 position_value 0.875
+open long @ price 2501.55 position_value 0.830
+close long @ price 2508.52 profit -0.000 position_value 0.848close long @ price 2508.52 profit -0.000 position_value 0.848
+close long @ price 2504.07 profit 0.001 position_value 0.830
+open short @ price 2508.52 position_value 0.848open short @ price 2508.52 position_value 0.848
+open short @ price 2504.07 position_value 0.830
+
+close long @ price 2470.15 profit -0.003 position_value 0.873
+close short @ price 2504.20 profit -0.000 position_value 0.830close short @ price 2504.20 profit -0.000 position_value 0.830
+open short @ price 2470.15 position_value 0.872
+
+open long @ price 2518.56 position_value 0.874
+close short @ price 2474.75 profit -0.002 position_value 0.870
+
+open long @ price 2509.35 position_value 0.847
+open long @ price 2474.75 position_value 0.870open long @ price 2474.75 position_value 0.870open long @ price 2474.75 position_value 0.870open long @ price 2474.75 position_value 0.870
+
+
+
+close long @ price 2463.46 profit -0.005 position_value 0.866close long @ price 2463.46 profit -0.005 position_value 0.866
+open short @ price 2505.28 position_value 0.845
+open short @ price 2463.46 position_value 0.865
+
+close short @ price 2499.36 profit -0.003 position_value 0.823close short @ price 2499.36 profit -0.003 position_value 0.823close short @ price 2499.36 profit -0.003 position_value 0.823close short @ price 2499.36 profit -0.003 position_value 0.823
+
+
+
+open long @ price 2499.36 position_value 0.822open long @ price 2499.36 position_value 0.822open long @ price 2499.36 position_value 0.822
+
+
+open long @ price 2493.24 position_value 0.848
+close long @ price 2500.17 profit 0.000 position_value 0.822close long @ price 2500.17 profit 0.000 position_value 0.822close long @ price 2500.17 profit 0.000 position_value 0.822
+
+
+close long @ price 2497.15 profit 0.002 position_value 0.849close long @ price 2497.15 profit 0.002 position_value 0.849
+open short @ price 2520.96 position_value 0.872
+open short @ price 2500.17 position_value 0.822
+
+open short @ price 2497.15 position_value 0.849open short @ price 2497.15 position_value 0.849
+close short @ price 2522.89 profit -0.001 position_value 0.871
+close short @ price 2502.06 profit -0.001 position_value 0.821close short @ price 2502.06 profit -0.001 position_value 0.821
+open long @ price 2522.89 position_value 0.871
+
+close short @ price 2499.73 profit -0.001 position_value 0.848
+close long @ price 2524.3

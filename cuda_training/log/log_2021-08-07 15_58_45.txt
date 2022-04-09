@@ -1,0 +1,10 @@
+log start @ 2021-08-07 15:58:45
+kline_start_time 1509465600 kline_total_len 1896480 test_start 1893600 test_end 1896480
+CUDA kernel launch with 17 blocks of 256 threads
+Kernel cost time 1338.725ms
+cudaThreadSynchronize no error
+Copy strategy from the CUDA device to the host memory
+best strategy : fast 27 slow 44 open 0.000 close 0.004 profit 1.2385
+start @ 2021-08-07 15:58:46
+end   @ 2021-08-07 15:58:47
+cost 1s 00:00:01

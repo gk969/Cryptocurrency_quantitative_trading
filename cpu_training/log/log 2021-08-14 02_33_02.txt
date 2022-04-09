@@ -1,0 +1,7 @@
+log start @ 2021-08-14 02:33:02
+cpu core 8
+RAND_MAX 32767
+market.ethusdt.kline.5min kline_start_time 1509465600 full_kline_len 379296 training_start 344736 training_end 352800
+thread 0 better profit 2.3922 fast 1 slow 7 open 0.010 close 0.068
+thread 2 better profit 2.5181 fast 1 slow 9 open 0.010 close 0.068
+thread 0 better profit 3.0612 fast 1 slow 11 open 0.012 close 0.054

@@ -1,0 +1,5 @@
+log start @ 2021-08-14 01:14:46
+cpu core 8
+RAND_MAX 32767
+market.ethusdt.kline.5min kline_start_time 1509465600 full_kline_len 9482400 training_start 8618400 training_end 8820000
+read ..\..\..\kline_bin\market.ethusdt.kline.5min.bin fail

@@ -1,0 +1,4 @@
+log start @ 2021-08-14 02:26:42
+cpu core 8
+RAND_MAX 32767
+market.ethusdt.kline.5min kline_start_time 1509465600 full_kline_len 379296 training_start 344736 training_end 352800

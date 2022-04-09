@@ -4,6 +4,7 @@ import asyncio
 import websocket
 import json
 import gzip
+import os
 import pymongo
 import numpy as np
 import pandas as pd
@@ -11,26 +12,17 @@ import mplfinance as mpf
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
-TIME_FORMAT = "%Y-%m-%d %H:%M:%S"
-
-
-def get_time_str(time_num):
-    return time.strftime(TIME_FORMAT, time.localtime(time_num))
-
-
-def get_time_num(time_str):
-    return int(time.mktime(time.strptime(time_str, TIME_FORMAT)))
-
+import utils
 
 KLINE_CH = "market.ethusdt.kline.1min"
 KLINE_PERIOD = 60
 FEE_RATE = 0.0004
 MA_NUM = 120
 
-KLINE_START_TIME = "2021-06-10 00:00:00"
-KLINE_START_TIME = get_time_num(KLINE_START_TIME)
+KLINE_START_TIME = "2021-06-08 00:00:00"
+KLINE_START_TIME = utils.get_time_num(KLINE_START_TIME)
 KLINE_END_TIME = "2021-06-12 00:00:00"
-KLINE_END_TIME = get_time_num(KLINE_END_TIME)
+KLINE_END_TIME = utils.get_time_num(KLINE_END_TIME)
 KLINE_NUM = int((KLINE_END_TIME - KLINE_START_TIME) / KLINE_PERIOD)
 
 huobi_db = pymongo.MongoClient('mongodb://localhost:27017/')['huobi_data']
@@ -54,7 +46,7 @@ for t in range(KLINE_START_TIME, KLINE_END_TIME, KLINE_PERIOD):
         kline['volume'][i] = item['amount']
         i += 1
     else:
-        print(f'kline not exist @ {get_time_str(t)}')
+        print(f'kline not exist @ {utils.get_time_str(t)}')
         exit()
 
 kline_ma = []
@@ -196,7 +188,7 @@ def plot_kline_profit(profit, states, fast_ma, slow_ma):
         mpf.make_addplot(states, color='black', width=1.75),
         mpf.make_addplot(profit, color='r', width=1.75, secondary_y='auto'),
     ]
-    kline['date'] = pd.date_range(get_time_str(KLINE_START_TIME), periods=KLINE_NUM, freq="1min")[MA_NUM:]
+    kline['date'] = pd.date_range(utils.get_time_str(KLINE_START_TIME), periods=KLINE_NUM, freq="1min")[MA_NUM:]
     kline_frame = pd.DataFrame(kline)
     kline_frame.set_index('date', inplace=True)
 

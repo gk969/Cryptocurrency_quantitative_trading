@@ -1,0 +1,30 @@
+﻿  Compiling CUDA source file training.cpp...
+  
+  C:\Users\SongJian\Desktop\Cryptocurrency_quantitative_trading\huobi\cuda_training>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin\nvcc.exe" -gencode=arch=compute_50,code=\"sm_50,compute_50\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc142.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\training.cpp.obj "C:\Users\SongJian\Desktop\Cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp" 
+CUDACOMPILE : nvcc warning : The 'compute_35', 'compute_37', 'compute_50', 'sm_35', 'sm_37' and 'sm_50' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
+  training.cpp
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): warning C4477: “sscanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 1 拥有了类型“float *”
+  c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): note: 请考虑在格式字符串中使用“%f”
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): warning C4477: “sscanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 2 拥有了类型“float *”
+  c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): note: 请考虑在格式字符串中使用“%f”
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): warning C4477: “sscanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 3 拥有了类型“float *”
+  c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): note: 请考虑在格式字符串中使用“%f”
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): warning C4477: “sscanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 4 拥有了类型“float *”
+  c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): note: 请考虑在格式字符串中使用“%f”
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): warning C4477: “sscanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 5 拥有了类型“float *”
+  c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): note: 请考虑在格式字符串中使用“%f”
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): warning C4477: “sscanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 6 拥有了类型“float *”
+  c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(62): note: 请考虑在格式字符串中使用“%f”
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(122): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(124): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(125): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(126): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(413): warning C4244: “初始化”: 从“time_t”转换到“u32”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(430): warning C4244: “初始化”: 从“time_t”转换到“u32”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(431): warning C4244: “初始化”: 从“time_t”转换到“u32”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(432): warning C4244: “初始化”: 从“time_t”转换到“u32”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(433): warning C4244: “初始化”: 从“time_t”转换到“u32”，可能丢失数据
+c:\users\songjian\desktop\cryptocurrency_quantitative_trading\huobi\cuda_training\training.cpp(441): warning C4244: “=”: 从“time_t”转换到“u32”，可能丢失数据
+  cuda_training.vcxproj -> C:\Users\SongJian\Desktop\Cryptocurrency_quantitative_trading\huobi\cuda_training\x64\Debug\cuda_training.exe

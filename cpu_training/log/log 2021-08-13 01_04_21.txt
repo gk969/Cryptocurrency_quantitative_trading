@@ -1,0 +1,25 @@
+log start @ 2021-08-13 01:04:21
+cpu core 8
+RAND_MAX 32767
+rand 27911
+rand 11667
+rand 21175
+rand 12195
+rand 29129
+rand 9925
+rand 17146
+rand 29838
+rand 26157
+rand 29547
+market.ethusdt.kline.5min kline_start_time 1509465600 full_kline_len 379296 test_start 370368 test_end 379296
+thread 2 better profit 4.4360 fast 1 slow 7 open 0.008 close 0.038
+thread 1 better profit 5.4213 fast 1 slow 13 open 0.024 close 0.046
+thread 3 better profit 5.6350 fast 1 slow 15 open 0.024 close 0.046
+thread 1 better profit 6.3515 fast 1 slow 39 open 0.012 close 0.044
+thread 3 better profit 6.9213 fast 3 slow 18 open 0.022 close 0.040
+thread 0 better profit 7.0077 fast 5 slow 19 open 0.006 close 0.036
+best strategy : fast 5 slow 19 open 0.006 close 0.036 profit 7.0077
+test_best_strategy fast 5 slow 19 open 0.006 close 0.036 profit 7.0077
+start @ 2021-08-13 01:04:21
+end   @ 2021-08-13 01:05:28
+cost 67s 00:01:07

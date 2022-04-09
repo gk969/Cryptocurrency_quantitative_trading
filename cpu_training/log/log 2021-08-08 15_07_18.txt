@@ -1,0 +1,94 @@
+log start @ 2021-08-08 15:07:18
+cpu core 8
+kline_start_time 1509465600 kline_total_len 379296 test_start 358848 test_end 379296
+training_hour 96 test_hour 48
+thread 3 better profit 1.1107 fast 1 slow 7 open 0.002 close 0.008
+thread 2 better profit 1.1140 fast 1 slow 53 open 0.000 close 0.020
+thread 2 better profit 1.1141 fast 5 slow 51 open 0.000 close 0.006
+thread 3 better profit 1.1195 fast 15 slow 38 open 0.000 close 0.002
+thread 2 better profit 1.1208 fast 15 slow 36 open 0.002 close 0.002
+thread 3 better profit 1.1234 fast 17 slow 45 open 0.000 close 0.002
+thread 1 better profit 1.1244 fast 17 slow 47 open 0.000 close 0.002
+thread 0 better profit 1.1251 fast 17 slow 49 open 0.000 close 0.002
+thread 2 better profit 1.1261 fast 17 slow 51 open 0.000 close 0.002
+thread 3 better profit 1.1262 fast 17 slow 53 open 0.000 close 0.002
+best strategy : fast 17 slow 53 open 0.000 close 0.002 profit 1.1262
+test strategy @ 358848 test_profit 0.9671 cur_profit 0.9671
+thread 2 better profit 1.1392 fast 1 slow 5 open 0.000 close 0.016
+thread 3 better profit 1.1444 fast 1 slow 3 open 0.000 close 0.004
+best strategy : fast 1 slow 3 open 0.000 close 0.004 profit 1.1444
+test strategy @ 359424 test_profit 0.9956 cur_profit 0.9629
+thread 0 better profit 1.1266 fast 1 slow 9 open 0.002 close 0.028
+thread 3 better profit 1.1308 fast 1 slow 3 open 0.000 close 0.004
+thread 3 better profit 1.1332 fast 5 slow 7 open 0.000 close 0.008
+thread 1 better profit 1.1368 fast 5 slow 57 open 0.000 close 0.010
+thread 0 better profit 1.1372 fast 19 slow 42 open 0.006 close 0.012
+best strategy : fast 19 slow 42 open 0.006 close 0.012 profit 1.1372
+test strategy @ 360000 test_profit 0.9735 cur_profit 0.9374
+thread 2 better profit 1.1620 fast 1 slow 7 open 0.006 close 0.006
+thread 1 better profit 1.1648 fast 5 slow 11 open 0.004 close 0.004
+best strategy : fast 5 slow 11 open 0.004 close 0.004 profit 1.1648
+test strategy @ 360576 test_profit 0.9978 cur_profit 0.9354
+thread 3 better profit 1.0439 fast 1 slow 9 open 0.000 close 0.012
+thread 1 better profit 1.0560 fast 1 slow 3 open 0.000 close 0.004
+thread 0 better profit 1.0581 fast 1 slow 15 open 0.000 close 0.008
+thread 1 better profit 1.0821 fast 1 slow 13 open 0.000 close 0.008
+thread 0 better profit 1.0904 fast 3 slow 12 open 0.000 close 0.006
+thread 2 better profit 1.1027 fast 3 slow 14 open 0.000 close 0.006
+best strategy : fast 3 slow 14 open 0.000 close 0.006 profit 1.1027
+test strategy @ 361152 test_profit 0.9423 cur_profit 0.8814
+thread 0 better profit 1.0391 fast 1 slow 5 open 0.006 close 0.004
+thread 2 better profit 1.0398 fast 1 slow 7 open 0.012 close 0.008
+thread 3 better profit 1.0484 fast 1 slow 9 open 0.004 close 0.008
+thread 1 better profit 1.0952 fast 1 slow 3 open 0.002 close 0.006
+best strategy : fast 1 slow 3 open 0.002 close 0.006 profit 1.0952
+test strategy @ 361728 test_profit 0.9712 cur_profit 0.8560
+thread 1 better profit 1.0809 fast 1 slow 5 open 0.004 close 0.010
+thread 3 better profit 1.0856 fast 1 slow 9 open 0.010 close 0.012
+thread 1 better profit 1.0927 fast 5 slow 7 open 0.000 close 0.002
+thread 3 better profit 1.0931 fast 11 slow 18 open 0.004 close 0.006
+best strategy : fast 11 slow 18 open 0.004 close 0.006 profit 1.0931
+test strategy @ 362304 test_profit 1.0391 cur_profit 0.8894
+thread 0 better profit 1.0691 fast 1 slow 5 open 0.006 close 0.010
+thread 2 better profit 1.0837 fast 1 slow 7 open 0.006 close 0.010
+thread 3 better profit 1.0858 fast 1 slow 9 open 0.006 close 0.012
+thread 2 better profit 1.0882 fast 1 slow 13 open 0.006 close 0.012
+thread 1 better profit 1.1041 fast 3 slow 6 open 0.000 close 0.006
+thread 0 better profit 1.1081 fast 19 slow 28 open 0.002 close 0.002
+best strategy : fast 19 slow 28 open 0.002 close 0.002 profit 1.1081
+test strategy @ 362880 test_profit 0.9031 cur_profit 0.8032
+thread 2 better profit 1.1280 fast 1 slow 7 open 0.008 close 0.020
+thread 3 better profit 1.1424 fast 1 slow 9 open 0.002 close 0.022
+thread 1 better profit 1.1445 fast 1 slow 15 open 0.000 close 0.026
+thread 2 better profit 1.1453 fast 11 slow 56 open 0.004 close 0.016
+thread 3 better profit 1.1476 fast 27 slow 46 open 0.002 close 0.008
+thread 3 better profit 1.1504 fast 29 slow 43 open 0.002 close 0.006
+thread 0 better profit 1.1516 fast 29 slow 47 open 0.002 close 0.008
+thread 0 better profit 1.1519 fast 29 slow 53 open 0.002 close 0.010
+best strategy : fast 29 slow 53 open 0.002 close 0.010 profit 1.1519
+test strategy @ 363456 test_profit 0.9945 cur_profit 0.7988
+thread 1 better profit 1.0246 fast 1 slow 5 open 0.000 close 0.020
+thread 3 better profit 1.0424 fast 1 slow 9 open 0.010 close 0.008
+thread 2 better profit 1.0514 fast 1 slow 7 open 0.000 close 0.008
+thread 0 better profit 1.1138 fast 1 slow 3 open 0.000 close 0.010
+thread 1 better profit 1.1208 fast 9 slow 19 open 0.006 close 0.010
+thread 0 better profit 1.1218 fast 11 slow 24 open 0.006 close 0.010
+thread 2 better profit 1.1236 fast 11 slow 56 open 0.016 close 0.018
+best strategy : fast 11 slow 56 open 0.016 close 0.018 profit 1.1236
+test strategy @ 364032 test_profit 1.0049 cur_profit 0.8028
+thread 3 better profit 1.1962 fast 1 slow 5 open 0.010 close 0.012
+thread 1 better profit 1.2389 fast 1 slow 9 open 0.000 close 0.010
+thread 3 better profit 1.2814 fast 1 slow 11 open 0.000 close 0.008
+thread 1 better profit 1.3442 fast 1 slow 13 open 0.000 close 0.010
+best strategy : fast 1 slow 13 open 0.000 close 0.010 profit 1.3442
+test strategy @ 364608 test_profit 0.9973 cur_profit 0.8006
+thread 0 better profit 1.2690 fast 1 slow 5 open 0.006 close 0.010
+thread 1 better profit 1.2954 fast 1 slow 7 open 0.000 close 0.008
+thread 2 better profit 1.3785 fast 1 slow 3 open 0.000 close 0.008
+best strategy : fast 1 slow 3 open 0.000 close 0.008 profit 1.3785
+test strategy @ 365184 test_profit 0.9270 cur_profit 0.7421
+thread 3 better profit 1.1895 fast 1 slow 7 open 0.014 close 0.012
+thread 0 better profit 1.2087 fast 1 slow 21 open 0.000 close 0.024
+thread 2 better profit 1.2264 fast 1 slow 25 open 0.026 close 0.020
+thread 3 better profit 1.3307 fast 1 slow 23 open 0.000 close 0.024
+thread 1 better profit 1.3545 fast 3 slow 22 open 0.000 close 0.020

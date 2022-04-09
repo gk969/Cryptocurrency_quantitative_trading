@@ -1,0 +1,12 @@
+log start @ 2021-08-14 02:58:33
+cpu core 16
+RAND_MAX 32767
+market.ethusdt.kline.1min kline_start_time 1509465600 full_kline_len 1896480 training_start 1723680 training_end 1764000
+best strategy : fast 5 slow 19 open 0.000 close 0.022 profit 5.9939
+training 2020-06-01 00:00:00 test 2020-06-04 00:00:00 strategy profit 0.9899 test_profit 0.9899
+best strategy : fast 1 slow 27 open 0.004 close 0.064 profit 8.4291
+training 2020-06-04 00:00:00 test 2020-06-07 00:00:00 strategy profit 1.0047 test_profit 0.9946
+best strategy : fast 11 slow 16 open 0.000 close 0.058 profit 7.2649
+training 2020-06-07 00:00:00 test 2020-06-10 00:00:00 strategy profit 0.9959 test_profit 0.9905
+best strategy : fast 3 slow 10 open 0.012 close 0.016 profit 6.7421
+training 2020-06-10 00:00:00 test 2020-06-13 00:00:00 strategy profit 1.0000 test_profit 0.9905

@@ -1,0 +1,23 @@
+log start @ 2021-08-10 00:30:10
+cpu core 8
+market.ethusdt.kline.15min kline_start_time 1509465600 kline_total_len 126432 test_start 120576 test_end 123456
+thread 1 better profit 1.5328 fast 1 slow 9 open 0.026 close 0.016
+thread 3 better profit 1.5676 fast 1 slow 3 open 0.008 close 0.010
+thread 1 better profit 1.5703 fast 1 slow 27 open 0.032 close 0.056
+thread 3 better profit 1.5808 fast 1 slow 31 open 0.020 close 0.032
+thread 0 better profit 1.6254 fast 1 slow 33 open 0.000 close 0.032
+thread 3 better profit 1.6528 fast 1 slow 47 open 0.038 close 0.050
+thread 1 better profit 1.7618 fast 1 slow 53 open 0.000 close 0.046
+thread 0 better profit 1.8544 fast 1 slow 57 open 0.000 close 0.046
+thread 2 better profit 1.8551 fast 1 slow 59 open 0.000 close 0.046
+thread 1 better profit 2.0017 fast 3 slow 54 open 0.000 close 0.040
+thread 0 better profit 2.0022 fast 3 slow 56 open 0.000 close 0.040
+thread 2 better profit 2.0147 fast 5 slow 53 open 0.000 close 0.036
+thread 3 better profit 2.0335 fast 5 slow 55 open 0.000 close 0.038
+thread 3 better profit 2.0987 fast 11 slow 42 open 0.000 close 0.026
+thread 3 better profit 2.1594 fast 13 slow 41 open 0.000 close 0.024
+thread 0 better profit 2.1622 fast 13 slow 43 open 0.000 close 0.024
+best strategy : fast 13 slow 43 open 0.000 close 0.024 profit 2.1622
+start @ 2021-08-10 00:30:10
+end   @ 2021-08-10 00:30:26
+cost 16s 00:00:16

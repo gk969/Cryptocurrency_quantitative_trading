@@ -1,0 +1,6 @@
+log start @ 2021-08-08 21:44:42
+cpu core 8
+kline_start_time 1509465600 kline_total_len 379296 test_start 373248 test_end 379296
+thread 2 better profit 1.7990 fast 1 slow 6 open 0.003 close 0.026
+thread 1 better profit 1.9141 fast 1 slow 5 open 0.000 close 0.023
+thread 1 better profit 1.9305 fast 1 slow 16 open 0.000 close 0.048

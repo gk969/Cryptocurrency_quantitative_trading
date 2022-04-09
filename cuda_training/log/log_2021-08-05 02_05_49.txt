@@ -1,0 +1,6 @@
+log start @ 2021-08-05 02:05:49
+kline_start_time 1509465600 kline_total_len 1896480 test_start 1893600 test_end 1896480
+CUDA kernel launch with 347 blocks of 256 threads
+cudaPeekAtLastError no error
+cudaThreadSynchronize the launch timed out and was terminated
+Failed to launch kernel (the launch timed out and was terminated)!

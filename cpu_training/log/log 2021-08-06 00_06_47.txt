@@ -1,0 +1,18 @@
+log start @ 2021-08-06 00:06:47
+cpu core 8
+kline_start_time 1509465600 kline_total_len 1896480 test_start 1893600 test_end 1896480
+open short @ price 2759.31 position_value 1.000
+close short @ price 2486.83 profit 0.099 position_value 1.098
+open long @ price 2486.83 position_value 1.097
+close long @ price 2506.58 profit 0.008 position_value 1.106
+open short @ price 2506.58 position_value 1.105
+close short @ price 2372.05 profit 0.054 position_value 1.164
+open long @ price 2372.05 position_value 1.164
+close long @ price 2469.46 profit 0.041 position_value 1.211
+open short @ price 2469.46 position_value 1.210
+close short @ price 2487.88 profit -0.007 position_value 1.201
+open long @ price 2487.88 position_value 1.200
+final position_value 1.24
+start @ 2021-08-06 00:06:47
+end   @ 2021-08-06 00:06:47
+cost 0s 00:00:00

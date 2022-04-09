@@ -1,0 +1,162 @@
+log start @ 2021-08-14 17:21:21
+cpu core 16
+RAND_MAX 32767
+market.ethusdt.kline.5min kline_start_time 1509465600 full_kline_len 379296 training_start 227808 training_end 376704
+training_ma_cross @ 2020-01-01 00:00:00 517.0 day
+thread 2 better profit 16.2674 fast 1 slow 15 open 0.000 close 0.094
+thread 4 better profit 18.0037 fast 1 slow 7 open 0.000 close 0.064
+thread 7 better profit 20.3789 fast 1 slow 5 open 0.040 close 0.078
+thread 5 better profit 24.4552 fast 1 slow 3 open 0.026 close 0.056
+best strategy : fast 1 slow 3 open 0.026 close 0.056 profit 24.4552
+test_training_ma_cross training_start 227808 training_end 376704
+training_hour 720 test_hour 720
+training_start 221184 
+training_ma_cross @ 2019-11-08 21:30:00 30.1 day
+thread 6 better profit 3.5175 fast 1 slow 15 open 0.020 close 0.062
+thread 3 better profit 4.1732 fast 1 slow 11 open 0.010 close 0.038
+thread 1 better profit 4.2877 fast 3 slow 8 open 0.004 close 0.068
+thread 6 better profit 4.3159 fast 3 slow 14 open 0.004 close 0.068
+thread 0 better profit 4.3393 fast 3 slow 18 open 0.004 close 0.068
+thread 5 better profit 4.3960 fast 3 slow 20 open 0.004 close 0.068
+thread 1 better profit 4.6761 fast 3 slow 24 open 0.010 close 0.070
+best strategy : fast 3 slow 24 open 0.010 close 0.070 profit 4.6761
+training 2019-11-09 00:00:00 test 2019-12-09 00:00:00 strategy training_profit 0.9921 profit 1.0568 test_profit 1.1168
+training_ma_cross @ 2019-12-08 21:30:00 30.1 day
+thread 1 better profit 2.8976 fast 1 slow 17 open 0.018 close 0.064
+thread 6 better profit 3.1085 fast 1 slow 13 open 0.036 close 0.088
+thread 4 better profit 3.5490 fast 1 slow 15 open 0.008 close 0.036
+thread 5 better profit 4.5074 fast 1 slow 3 open 0.004 close 0.020
+thread 7 better profit 5.0203 fast 13 slow 23 open 0.000 close 0.054
+best strategy : fast 13 slow 23 open 0.000 close 0.054 profit 5.0203
+training 2019-12-09 00:00:00 test 2020-01-08 00:00:00 strategy training_profit 0.7425 profit 1.2443 test_profit 1.7290
+training_ma_cross @ 2020-01-07 21:30:00 30.1 day
+thread 0 better profit 4.0495 fast 1 slow 17 open 0.004 close 0.058
+thread 5 better profit 4.0709 fast 1 slow 15 open 0.000 close 0.054
+thread 1 better profit 4.2021 fast 1 slow 11 open 0.010 close 0.096
+thread 6 better profit 4.5500 fast 1 slow 13 open 0.014 close 0.082
+thread 4 better profit 6.9273 fast 1 slow 5 open 0.000 close 0.054
+best strategy : fast 1 slow 5 open 0.000 close 0.054 profit 6.9273
+training 2020-01-08 00:00:00 test 2020-02-07 00:00:00 strategy training_profit 1.5169 profit 1.1559 test_profit 2.3103
+training_ma_cross @ 2020-02-06 21:30:00 30.1 day
+thread 2 better profit 5.3135 fast 1 slow 13 open 0.010 close 0.036
+thread 1 better profit 5.9491 fast 1 slow 11 open 0.002 close 0.062
+best strategy : fast 1 slow 11 open 0.002 close 0.062 profit 5.9491
+training 2020-02-07 00:00:00 test 2020-03-08 00:00:00 strategy training_profit 1.1559 profit 0.6714 test_profit 1.0414
+training_ma_cross @ 2020-03-07 21:30:00 30.1 day
+thread 0 better profit 3.8656 fast 1 slow 15 open 0.012 close 0.096
+thread 2 better profit 4.2040 fast 1 slow 13 open 0.016 close 0.094
+thread 7 better profit 4.9597 fast 1 slow 9 open 0.026 close 0.090
+thread 1 better profit 5.9069 fast 1 slow 7 open 0.018 close 0.076
+thread 3 better profit 6.8316 fast 5 slow 15 open 0.014 close 0.064
+thread 6 better profit 7.7180 fast 7 slow 10 open 0.002 close 0.028
+best strategy : fast 7 slow 10 open 0.002 close 0.028 profit 7.7180
+training 2020-03-08 00:00:00 test 2020-04-07 00:00:00 strategy training_profit 1.9319 profit 1.2770 test_profit 1.6982
+training_ma_cross @ 2020-04-06 21:30:00 30.1 day
+thread 6 better profit 3.9229 fast 1 slow 13 open 0.030 close 0.056
+thread 5 better profit 4.2153 fast 1 slow 17 open 0.018 close 0.070
+thread 1 better profit 4.6599 fast 1 slow 9 open 0.014 close 0.100
+thread 4 better profit 6.3276 fast 1 slow 15 open 0.000 close 0.050
+best strategy : fast 1 slow 15 open 0.000 close 0.050 profit 6.3276
+training 2020-04-07 00:00:00 test 2020-05-07 00:00:00 strategy training_profit 1.2770 profit 0.8729 test_profit 1.2940
+training_ma_cross @ 2020-05-06 21:30:00 30.1 day
+thread 7 better profit 2.9002 fast 1 slow 17 open 0.008 close 0.054
+thread 6 better profit 3.2240 fast 1 slow 9 open 0.018 close 0.042
+thread 1 better profit 4.4449 fast 3 slow 10 open 0.002 close 0.054
+thread 5 better profit 4.8187 fast 5 slow 13 open 0.002 close 0.054
+best strategy : fast 5 slow 13 open 0.002 close 0.054 profit 4.8187
+training 2020-05-07 00:00:00 test 2020-06-06 00:00:00 strategy training_profit 0.9664 profit 0.8718 test_profit 0.9835
+training_ma_cross @ 2020-06-05 21:30:00 30.1 day
+thread 6 better profit 3.2606 fast 1 slow 15 open 0.006 close 0.090
+thread 3 better profit 3.5108 fast 1 slow 11 open 0.014 close 0.092
+thread 0 better profit 3.9997 fast 1 slow 5 open 0.010 close 0.064
+thread 5 better profit 5.3331 fast 3 slow 6 open 0.008 close 0.020
+best strategy : fast 3 slow 6 open 0.008 close 0.020 profit 5.3331
+training 2020-06-06 00:00:00 test 2020-07-06 00:00:00 strategy training_profit 1.0741 profit 1.2228 test_profit 1.4705
+training_ma_cross @ 2020-07-05 21:30:00 30.1 day
+thread 0 better profit 4.0416 fast 1 slow 9 open 0.010 close 0.090
+thread 6 better profit 4.5637 fast 1 slow 17 open 0.012 close 0.074
+thread 3 better profit 4.6716 fast 1 slow 13 open 0.008 close 0.082
+thread 4 better profit 4.6848 fast 1 slow 15 open 0.002 close 0.094
+thread 2 better profit 5.3884 fast 1 slow 5 open 0.006 close 0.084
+thread 0 better profit 6.2883 fast 3 slow 14 open 0.006 close 0.084
+thread 5 better profit 6.4645 fast 9 slow 25 open 0.000 close 0.062
+thread 6 better profit 6.6354 fast 9 slow 27 open 0.010 close 0.094
+best strategy : fast 9 slow 27 open 0.010 close 0.094 profit 6.6354
+training 2020-07-06 00:00:00 test 2020-08-05 00:00:00 strategy training_profit 1.6696 profit 0.6914 test_profit 0.7030
+training_ma_cross @ 2020-08-04 21:30:00 30.1 day
+thread 1 better profit 3.1375 fast 1 slow 17 open 0.012 close 0.030
+thread 6 better profit 3.3545 fast 1 slow 15 open 0.032 close 0.046
+thread 3 better profit 3.9402 fast 1 slow 11 open 0.032 close 0.046
+thread 4 better profit 4.3310 fast 1 slow 7 open 0.000 close 0.062
+thread 1 better profit 4.7112 fast 3 slow 8 open 0.000 close 0.024
+best strategy : fast 3 slow 8 open 0.000 close 0.024 profit 4.7112
+training 2020-08-05 00:00:00 test 2020-09-04 00:00:00 strategy training_profit 1.1989 profit 0.9547 test_profit 0.6407
+training_ma_cross @ 2020-09-03 21:30:00 30.1 day
+thread 6 better profit 3.1425 fast 1 slow 13 open 0.000 close 0.052
+thread 1 better profit 3.5798 fast 1 slow 15 open 0.016 close 0.098
+thread 2 better profit 3.6118 fast 1 slow 17 open 0.004 close 0.042
+thread 7 better profit 3.9589 fast 1 slow 11 open 0.028 close 0.040
+thread 5 better profit 4.5242 fast 1 slow 27 open 0.008 close 0.086
+thread 3 better profit 4.8109 fast 1 slow 29 open 0.016 close 0.098
+thread 4 better profit 4.9010 fast 9 slow 25 open 0.000 close 0.096
+thread 2 better profit 4.9442 fast 13 slow 23 open 0.014 close 0.022
+best strategy : fast 13 slow 23 open 0.014 close 0.022 profit 4.9442
+training 2020-09-04 00:00:00 test 2020-10-04 00:00:00 strategy training_profit 1.0838 profit 1.0046 test_profit 0.6467
+training_ma_cross @ 2020-10-03 21:30:00 30.1 day
+thread 1 better profit 3.0680 fast 1 slow 13 open 0.006 close 0.042
+thread 5 better profit 3.1283 fast 1 slow 7 open 0.002 close 0.042
+thread 4 better profit 4.2883 fast 1 slow 9 open 0.000 close 0.022
+thread 2 better profit 4.3724 fast 1 slow 21 open 0.002 close 0.052
+best strategy : fast 1 slow 21 open 0.002 close 0.052 profit 4.3724
+training 2020-10-04 00:00:00 test 2020-11-03 00:00:00 strategy training_profit 1.1092 profit 1.2011 test_profit 0.9330
+training_ma_cross @ 2020-11-02 21:30:00 30.1 day
+thread 6 better profit 4.0248 fast 1 slow 13 open 0.018 close 0.090
+thread 7 better profit 4.0261 fast 1 slow 11 open 0.016 close 0.046
+thread 1 better profit 4.4179 fast 1 slow 7 open 0.010 close 0.094
+thread 4 better profit 5.4987 fast 1 slow 3 open 0.008 close 0.038
+thread 2 better profit 6.0844 fast 3 slow 26 open 0.014 close 0.080
+best strategy : fast 3 slow 26 open 0.014 close 0.080 profit 6.0844
+training 2020-11-03 00:00:00 test 2020-12-03 00:00:00 strategy training_profit 1.2790 profit 1.0008 test_profit 0.9345
+training_ma_cross @ 2020-12-02 21:30:00 30.1 day
+thread 7 better profit 2.8652 fast 1 slow 13 open 0.002 close 0.042
+thread 6 better profit 3.8066 fast 1 slow 11 open 0.010 close 0.100
+thread 2 better profit 3.8315 fast 1 slow 17 open 0.010 close 0.100
+thread 5 better profit 4.1519 fast 3 slow 6 open 0.002 close 0.086
+best strategy : fast 3 slow 6 open 0.002 close 0.086 profit 4.1519
+training 2020-12-03 00:00:00 test 2021-01-02 00:00:00 strategy training_profit 1.0124 profit 1.4645 test_profit 2.0043
+training_ma_cross @ 2021-01-01 21:30:00 30.1 day
+thread 3 better profit 3.6608 fast 1 slow 11 open 0.008 close 0.070
+thread 6 better profit 4.8653 fast 1 slow 15 open 0.002 close 0.060
+thread 2 better profit 6.5214 fast 1 slow 9 open 0.002 close 0.060
+best strategy : fast 1 slow 9 open 0.002 close 0.060 profit 6.5214
+training 2021-01-02 00:00:00 test 2021-02-01 00:00:00 strategy training_profit 1.1883 profit 0.8597 test_profit 1.4812
+training_ma_cross @ 2021-01-31 21:30:00 30.1 day
+thread 7 better profit 3.0352 fast 1 slow 13 open 0.020 close 0.042
+thread 3 better profit 3.2421 fast 1 slow 11 open 0.006 close 0.040
+thread 0 better profit 4.5985 fast 1 slow 9 open 0.000 close 0.036
+thread 0 better profit 5.0980 fast 5 slow 23 open 0.006 close 0.046
+thread 3 better profit 5.1174 fast 5 slow 25 open 0.006 close 0.046
+best strategy : fast 5 slow 25 open 0.006 close 0.046 profit 5.1174
+training 2021-02-01 00:00:00 test 2021-03-03 00:00:00 strategy training_profit 1.1003 profit 1.0242 test_profit 1.5538
+training_ma_cross @ 2021-03-02 21:30:00 30.1 day
+thread 6 better profit 3.8126 fast 1 slow 17 open 0.004 close 0.096
+thread 5 better profit 3.8133 fast 1 slow 13 open 0.002 close 0.034
+thread 2 better profit 5.4352 fast 1 slow 7 open 0.004 close 0.096
+best strategy : fast 1 slow 7 open 0.004 close 0.096 profit 5.4352
+training 2021-03-03 00:00:00 test 2021-04-02 00:00:00 strategy training_profit 1.2471 profit 1.4624 test_profit 3.3228
+training_ma_cross @ 2021-04-01 21:30:00 30.1 day
+thread 1 better profit 3.3691 fast 1 slow 11 open 0.002 close 0.080
+thread 6 better profit 3.7574 fast 1 slow 17 open 0.002 close 0.082
+thread 0 better profit 3.7639 fast 1 slow 9 open 0.002 close 0.082
+thread 5 better profit 3.9380 fast 1 slow 7 open 0.002 close 0.028
+thread 4 better profit 4.6580 fast 3 slow 6 open 0.002 close 0.086
+thread 0 better profit 5.3433 fast 3 slow 12 open 0.004 close 0.024
+best strategy : fast 3 slow 12 open 0.004 close 0.024 profit 5.3433
+training 2021-04-02 00:00:00 test 2021-05-02 00:00:00 strategy training_profit 1.1789 profit 1.1568 test_profit 4.4467
+training_hour 8640 test_hour 720 test end
+better @ training_hour 720 test_hour 720 max_profit 4.4467
+best @ training_hour 720 test_hour 720 profit 4.447
+test_best_strategy fast 1 slow 3 open 0.026 close 0.056 profit 24.4552
+start @ 2021-08-14 17:21:22
+end   @ 2021-08-14 17:24:35
+cost 193s 00:03:13

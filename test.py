@@ -1,16 +1,7 @@
-import pandas as pd
-import mplfinance as mpf
-import matplotlib.pyplot as plt
-import matplotlib.gridspec as gridspec
+import pymongo
 
-
-t=[]
-for i in range(10):
-    t.append(i)
-print(t)
-
-t=pd.Series(t)
-t=t.rolling(window=3).mean()
-print(t)
-print(len(t))
-
+huobi_db = pymongo.MongoClient('mongodb://localhost:27017/')['test']
+kline_coll = huobi_db.get_collection('gk969')
+data = {'id': 12323, "type": 'A'}
+data['_id'] = data.pop('id')
+kline_coll.insert_one(data)
