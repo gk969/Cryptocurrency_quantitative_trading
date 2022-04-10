@@ -2,7 +2,7 @@
 #include "kline_data.h"
 
 void indicator_test() {
-#define TEST_LEN    50
+#define TEST_LEN    40
     Kline_item* kline = read_kline("market.ethusdt.kline.1day", 0, TEST_LEN);
     log_ln("close:");
     for (int i = 0; i < TEST_LEN; i++) {
@@ -52,6 +52,15 @@ void indicator_test() {
     }
     log_ln("");
     delete macd;
+    
+    
+    Indicator_RSI* rsi = new Indicator_RSI(&kline[0], TEST_LEN);
+    log_ln("rsi:");
+    for (int i = 0; i < TEST_LEN; i++) {
+        log("%.2f ", rsi->get(i));
+    }
+    log_ln("");
+    delete rsi;
     
 }
 
@@ -279,4 +288,73 @@ D_FLOAT Indicator_MACD::get(int i) {
     return macd[i];
 }
 
+
+void Indicator_RSI::init(Kline_item* kline, int len, int mean_size) {
+    this->len = len;
+    this->mean_size = mean_size;
+    
+    if (len < mean_size) {
+        log_ln("Indicator_RSI Error len < mean_size");
+        return;
+    }
+    
+    mean_size = imax(mean_size, 1);
+    
+    rsi = (D_FLOAT*)malloc(len * sizeof(D_FLOAT));
+    if (rsi == NULL) {
+        log_ln("Indicator_RSI Error malloc");
+        return;
+    }
+    
+    D_FLOAT gain_sum = 0;
+    D_FLOAT loss_sum = 0;
+    rsi[0] = -1;
+    int i = 1;
+    for (; i < mean_size + 1; i++) {
+        rsi[i] = -1;
+        D_FLOAT diff = kline[i].close - kline[i - 1].close;
+        if (diff >= 0) {
+            gain_sum += diff;
+        } else {
+            loss_sum += 0 - diff;
+        }
+    }
+    D_FLOAT avg_gain = gain_sum / mean_size;
+    D_FLOAT avg_loss = loss_sum / mean_size;
+    rsi[i-1] = 100 - (100 / (1 + avg_gain / avg_loss));
+    
+    int last_step=mean_size-1;
+    for (; i < len; i++) {
+        D_FLOAT diff = kline[i].close - kline[i - 1].close;
+        D_FLOAT cur_gain = 0;
+        D_FLOAT cur_loss = 0;
+        if (diff >= 0) {
+            cur_gain = diff;
+        } else {
+            cur_loss = 0 - diff;
+        }
+        
+        avg_gain = (avg_gain * last_step + cur_gain) / mean_size;
+        avg_loss = (avg_loss * last_step + cur_loss) / mean_size;
+        rsi[i] = 100 - (100 / (1 + avg_gain / avg_loss));
+        
+        // log_ln("cur_gain %.2f cur_loss %.2f avg_gain %.2f avg_loss %.2f rsi %.2f", cur_gain, cur_loss, avg_gain, avg_loss, rsi[i]);
+    }
+}
+
+Indicator_RSI::Indicator_RSI(Kline_item* kline, int len, int mean_size) {
+    init(kline, len, mean_size);
+}
+
+Indicator_RSI::Indicator_RSI(Kline_item* kline, int len) {
+    init(kline, len, 14);
+}
+
+Indicator_RSI::~Indicator_RSI() {
+    free(rsi);
+}
+
+D_FLOAT Indicator_RSI::get(int i) {
+    return rsi[i];
+}
 

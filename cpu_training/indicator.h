@@ -65,4 +65,19 @@ public:
     inline D_FLOAT get(int i);
 };
 
+class Indicator_RSI {
+private:
+    D_FLOAT* rsi;
+    int len;
+    int mean_size;
+    
+    void init(Kline_item* kline, int len, int mean_size);
+public:
+    Indicator_RSI(Kline_item* kline, int len);
+    Indicator_RSI(Kline_item* kline, int len, int mean_size);
+    ~Indicator_RSI();
+    
+    inline D_FLOAT get(int i);
+};
+
 
