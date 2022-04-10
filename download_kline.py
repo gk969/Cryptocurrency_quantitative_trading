@@ -14,7 +14,7 @@ from utils import *
 State = Enum('State', ('IDLE', 'SUB', 'REQ', 'END'))
 state = State.IDLE
 MAX_KLINE_PER_REQ = 720
-REQ_KLINE_START = "2017-11-01 00:00:00"
+REQ_KLINE_START = "2017-01-01 00:00:00"
 REQ_KLINE_START = get_time_num(REQ_KLINE_START)
 REQ_KLINE_END = "2022-03-24 00:00:00"
 REQ_KLINE_END = get_time_num(REQ_KLINE_END)
@@ -49,14 +49,13 @@ TIME_PERIODS = [
     {'nm': '1day', 'tm': 24 * 3600},
 ]
 
-# COIN_NAMES = ['doge']
+# COIN_NAMES = ['eth']
 COIN_NAMES = ['btc', 'eth', 'doge', 'ltc', 'xrp', 'ada', 'uni', 'dot', 'sol', 'shib', 'etc']
 
 coin_idx = 0
 period_idx = 0
 
 huobi_db = pymongo.MongoClient('mongodb://localhost:27017/')['huobi_data']
-
 
 def start_req_kline():
     global last_kline, kline_ch, kline_period, kline_coll, kline_sub, real_kline_start, kline_start_time
@@ -100,6 +99,7 @@ def kline_to_csv():
         for i in range(kline_start_time, REQ_KLINE_END, kline_period):
             item = kline_coll.find_one({'_id': i})
             if item is not None:
+                print(f'*** write csv @ {get_time_str(i)} d {i % (24 * 3600)}')
                 if (i % (24 * 3600)) == 0:
                     print(f'write csv @ {get_time_str(i)}')
                 print(f'{item["open"]},{item["close"]},{item["high"]},{item["low"]},'

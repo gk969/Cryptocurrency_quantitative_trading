@@ -2,7 +2,7 @@
 #include "kline_data.h"
 
 void indicator_test() {
-#define TEST_LEN    100
+#define TEST_LEN    50
     Kline_item* kline = read_kline("market.ethusdt.kline.1day", 0, TEST_LEN);
     log_ln("close:");
     for (int i = 0; i < TEST_LEN; i++) {
@@ -18,16 +18,16 @@ void indicator_test() {
     log_ln("");
     delete sma;
     
-    Indicator_EMA* ema = new Indicator_EMA(&kline[0], TEST_LEN, 3);
-    log_ln("ema3:");
+    Indicator_EMA* ema = new Indicator_EMA(&kline[0], TEST_LEN, 12);
+    log_ln("ema12:");
     for (int i = 0; i < TEST_LEN; i++) {
         log("%.2f ", ema->get(i));
     }
     log_ln("");
     delete ema;
     
-    ema = new Indicator_EMA(&kline[0], TEST_LEN, 5);
-    log_ln("ema5:");
+    ema = new Indicator_EMA(&kline[0], TEST_LEN, 26);
+    log_ln("ema26:");
     for (int i = 0; i < TEST_LEN; i++) {
         log("%.2f ", ema->get(i));
     }
@@ -35,15 +35,23 @@ void indicator_test() {
     delete ema;
     
     
-    Indicator_bollinger_band* bolling_band = new Indicator_bollinger_band(&kline[0], TEST_LEN);
-    log_ln("bolling_band:");
+    // Indicator_bollinger_band* bolling_band = new Indicator_bollinger_band(&kline[0], TEST_LEN);
+    // log_ln("bolling_band:");
+    // for (int i = 0; i < TEST_LEN; i++) {
+    // Bollinger_band* bb=bolling_band->get(i);
+    // log_ln("%.2f %.2f %.2f", bb->median, bb->upper, bb->lower);
+    // }
+    // log_ln("");
+    // delete bolling_band;
+    
+    
+    Indicator_MACD* macd = new Indicator_MACD(&kline[0], TEST_LEN);
+    log_ln("macd:");
     for (int i = 0; i < TEST_LEN; i++) {
-        Bollinger_band* bb=bolling_band->get(i);
-        log_ln("%.2f %.2f %.2f", bb->median, bb->upper, bb->lower);
+        log("%.2f ", macd->get(i));
     }
     log_ln("");
-    delete bolling_band;
-    
+    delete macd;
     
 }
 
@@ -205,4 +213,70 @@ Indicator_bollinger_band::~Indicator_bollinger_band() {
 Bollinger_band* Indicator_bollinger_band::get(int i) {
     return &band[i];
 }
+
+
+void Indicator_MACD::init(Kline_item* kline, int len, int ema_fast, int ema_slow, int signal) {
+    this->ema_fast = ema_fast;
+    this->ema_slow = ema_slow;
+    this->signal = signal;
+    
+    Indicator_EMA* fast_ema = new Indicator_EMA(kline, len, ema_fast);
+    Indicator_EMA* slow_ema = new Indicator_EMA(kline, len, ema_slow);
+    Kline_item* diff = (Kline_item*)malloc(len * sizeof(Kline_item));
+    if (diff == NULL) {
+        log_ln("Indicator_MACD Error diff malloc");
+        return;
+    }
+    
+    int diff_start = ema_slow - 1;
+    for (int i = 0; i < diff_start; i++) {
+        diff[i].close = 0;
+    }
+    
+    // log_ln("macd diff");
+    for (int i = diff_start; i < len; i++) {
+        diff[i].close = fast_ema->get(i) - slow_ema->get(i);
+        // log("%.2f ", diff[i].close);
+    }
+    // log_ln("");
+    delete fast_ema;
+    delete slow_ema;
+    
+    
+    Indicator_EMA* signal_ema = new Indicator_EMA(&diff[diff_start], len - diff_start, signal);
+    
+    macd = (D_FLOAT*)malloc(len * sizeof(D_FLOAT));
+    
+    int macd_start = diff_start + signal - 1;
+    for (int i = 0; i < macd_start; i++) {
+        macd[i] = 0;
+    }
+    
+    // log_ln("macd signal_ema");
+    for (int i = macd_start; i < len; i++) {
+        // log("%.2f - %.2f   ", diff[i].close, signal_ema->get(i - ema_slow + 1));
+        macd[i] = diff[i].close - signal_ema->get(i - ema_slow + 1);
+    }
+    // log_ln("");
+    
+    free(diff);
+    delete signal_ema;
+}
+
+Indicator_MACD::Indicator_MACD(Kline_item* kline, int len, int ema_fast, int ema_slow, int signal) {
+    init(kline, len, ema_fast, ema_slow, signal);
+}
+
+Indicator_MACD::Indicator_MACD(Kline_item* kline, int len) {
+    init(kline, len, 12, 26, 9);
+}
+
+Indicator_MACD::~Indicator_MACD() {
+    free(macd);
+}
+
+D_FLOAT Indicator_MACD::get(int i) {
+    return macd[i];
+}
+
 

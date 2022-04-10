@@ -48,4 +48,21 @@ public:
     inline Bollinger_band* get(int i);
 };
 
+class Indicator_MACD {
+private:
+    D_FLOAT* macd;
+    int len;
+    int ema_fast;
+    int ema_slow;
+    int signal;
+    
+    void init(Kline_item* kline, int len, int ema_fast, int ema_slow, int signal);
+public:
+    Indicator_MACD(Kline_item* kline, int len);
+    Indicator_MACD(Kline_item* kline, int len, int ema_fast, int ema_slow, int signal);
+    ~Indicator_MACD();
+    
+    inline D_FLOAT get(int i);
+};
+
 

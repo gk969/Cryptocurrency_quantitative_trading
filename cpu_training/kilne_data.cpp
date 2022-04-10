@@ -69,7 +69,7 @@ Kline_period KLINE_PERIODS[] = {
 };
 #define PERIOD_NUM  (sizeof(KLINE_PERIODS)/sizeof(Kline_period))
 
-// const char* KLINE_COIN[] = { "btc"};
+// const char* KLINE_COIN[] = { "eth"};
 const char* KLINE_COIN[] = { "btc", "eth", "doge", "ltc", "xrp", "ada", "uni", "dot", "sol", "shib", "etc"};
 #define KLINE_NUM   (sizeof(KLINE_COIN)/sizeof(char*))
 
