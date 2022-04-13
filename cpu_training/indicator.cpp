@@ -1,8 +1,7 @@
 #include "common.h"
-#include "kline_data.h"
 
 void indicator_test() {
-#define TEST_LEN    40
+#define TEST_LEN    1610
     Kline_item* kline = read_kline("market.ethusdt.kline.1day", 0, TEST_LEN);
     log_ln("close:");
     for (int i = 0; i < TEST_LEN; i++) {
@@ -72,6 +71,7 @@ Indicator_SMA::Indicator_SMA(Kline_item* kline, int len, int mean_size) {
     
     if (len < mean_size) {
         log_ln("Indicator_SMA Error len < mean_size");
+        exit(0);
         return;
     }
     
@@ -80,12 +80,14 @@ Indicator_SMA::Indicator_SMA(Kline_item* kline, int len, int mean_size) {
     sma = (D_FLOAT*)malloc(len * sizeof(D_FLOAT));
     if (sma == NULL) {
         log_ln("Indicator_SMA Error malloc");
+        exit(0);
         return;
     }
     
     D_FLOAT sum = 0;
     int i = 0;
-    for (; i < (mean_size - 1); i++) {
+    int start = get_valid_start();
+    for (; i < start; i++) {
         sma[i] = -1;
         sum += kline[i].close;
     }
@@ -106,6 +108,10 @@ D_FLOAT Indicator_SMA::get(int i) {
     return sma[i];
 }
 
+int Indicator_SMA::get_valid_start() {
+    return mean_size - 1;
+}
+
 
 // EMAtoday = α * Pricetoday + ( 1 - α ) * EMAyesterday;
 // α = 2 / (1 + d)
@@ -122,6 +128,7 @@ Indicator_EMA::Indicator_EMA(Kline_item* kline, int len, int mean_size) {
     
     if (len < mean_size) {
         log_ln("Indicator_EMA Error len < mean_size");
+        exit(0);
         return;
     }
     
@@ -130,12 +137,14 @@ Indicator_EMA::Indicator_EMA(Kline_item* kline, int len, int mean_size) {
     ema = (D_FLOAT*)malloc(len * sizeof(D_FLOAT));
     if (ema == NULL) {
         log_ln("Indicator_EMA Error malloc");
+        exit(0);
         return;
     }
     
     D_FLOAT sum = 0;
     int i = 0;
-    for (; i < (mean_size - 1); i++) {
+    int start = get_valid_start();
+    for (; i < start; i++) {
         ema[i] = -1;
         sum += kline[i].close;
     }
@@ -158,6 +167,10 @@ D_FLOAT Indicator_EMA::get(int i) {
     return ema[i];
 }
 
+int Indicator_EMA::get_valid_start() {
+    return mean_size - 1;
+}
+
 
 
 Indicator_bollinger_band::Indicator_bollinger_band(Kline_item* kline, int len) {
@@ -175,6 +188,7 @@ void Indicator_bollinger_band::init(Kline_item* kline, int len, int mean_size, i
     
     if (len < mean_size) {
         log_ln("Indicator_bollinger_band Error len < mean_size");
+        exit(0);
         return;
     }
     
@@ -183,12 +197,14 @@ void Indicator_bollinger_band::init(Kline_item* kline, int len, int mean_size, i
     band = (Bollinger_band*)malloc(len * sizeof(Bollinger_band));
     if (band == NULL) {
         log_ln("Indicator_bollinger_band Error malloc");
+        exit(0);
         return;
     }
     
     D_FLOAT sum = 0;
     int i = 0;
-    for (; i < (mean_size - 1); i++) {
+    int start = get_valid_start();
+    for (; i < start; i++) {
         band[i].median = 0;
         band[i].upper = 0;
         band[i].lower = 0;
@@ -223,6 +239,10 @@ Bollinger_band* Indicator_bollinger_band::get(int i) {
     return &band[i];
 }
 
+int Indicator_bollinger_band::get_valid_start() {
+    return mean_size - 1;
+}
+
 
 void Indicator_MACD::init(Kline_item* kline, int len, int ema_fast, int ema_slow, int signal) {
     this->ema_fast = ema_fast;
@@ -234,6 +254,7 @@ void Indicator_MACD::init(Kline_item* kline, int len, int ema_fast, int ema_slow
     Kline_item* diff = (Kline_item*)malloc(len * sizeof(Kline_item));
     if (diff == NULL) {
         log_ln("Indicator_MACD Error diff malloc");
+        exit(0);
         return;
     }
     
@@ -288,6 +309,10 @@ D_FLOAT Indicator_MACD::get(int i) {
     return macd[i];
 }
 
+int Indicator_MACD::get_valid_start() {
+    return ema_slow - 1 + signal - 1;
+}
+
 
 void Indicator_RSI::init(Kline_item* kline, int len, int mean_size) {
     this->len = len;
@@ -295,6 +320,7 @@ void Indicator_RSI::init(Kline_item* kline, int len, int mean_size) {
     
     if (len < mean_size) {
         log_ln("Indicator_RSI Error len < mean_size");
+        exit(0);
         return;
     }
     
@@ -303,6 +329,7 @@ void Indicator_RSI::init(Kline_item* kline, int len, int mean_size) {
     rsi = (D_FLOAT*)malloc(len * sizeof(D_FLOAT));
     if (rsi == NULL) {
         log_ln("Indicator_RSI Error malloc");
+        exit(0);
         return;
     }
     
@@ -321,9 +348,9 @@ void Indicator_RSI::init(Kline_item* kline, int len, int mean_size) {
     }
     D_FLOAT avg_gain = gain_sum / mean_size;
     D_FLOAT avg_loss = loss_sum / mean_size;
-    rsi[i-1] = 100 - (100 / (1 + avg_gain / avg_loss));
+    rsi[i - 1] = 100 - (100 / (1 + avg_gain / avg_loss));
     
-    int last_step=mean_size-1;
+    int last_step = mean_size - 1;
     for (; i < len; i++) {
         D_FLOAT diff = kline[i].close - kline[i - 1].close;
         D_FLOAT cur_gain = 0;
@@ -356,5 +383,9 @@ Indicator_RSI::~Indicator_RSI() {
 
 D_FLOAT Indicator_RSI::get(int i) {
     return rsi[i];
+}
+
+int Indicator_RSI::get_valid_start() {
+    return mean_size;
 }
 

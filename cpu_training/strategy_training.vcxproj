@@ -142,6 +142,8 @@
     <ClCompile Include="..\cpp_common\utils.cpp" />
     <ClCompile Include="indicator.cpp" />
     <ClCompile Include="kilne_data.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="strategy.cpp" />
     <ClCompile Include="strategy_training.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

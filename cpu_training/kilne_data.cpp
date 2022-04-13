@@ -3,21 +3,21 @@
 
 void kline_csv_to_bin(int kline_period, const char* csv_file_name, const char* bin_file_name) {
     log_ln("kline_csv_to_bin %s -> %s", csv_file_name, csv_file_name);
-
+    
     FILE* csv_file = fopen(csv_file_name, "r");
     if (csv_file == NULL) {
         log_ln("open %s fail", csv_file_name);
         exit(EXIT_FAILURE);
         return;
     }
-
+    
     FILE* bin_file = fopen(bin_file_name, "wb");
     if (bin_file == NULL) {
         log_ln("open %s fail", bin_file_name);
         exit(EXIT_FAILURE);
         return;
     }
-
+    
     char line[512];
     Kline_item_sto kline;
     int kline_lines = 0;
@@ -35,8 +35,7 @@ void kline_csv_to_bin(int kline_period, const char* csv_file_name, const char* b
             int sf = sscanf(line, "%lf,%lf,%lf,%lf,%lf,%lf,%d", &kline.open, &kline.close, &kline.high, &kline.low, &kline.amount, &kline.vol, &kline.count);
             fwrite(&kline, sizeof(Kline_item_sto), 1, bin_file);
             kline_lines_in_file++;
-        }
-        else if (strstr(line, "from") != NULL && strstr(line, "to") != NULL) {
+        } else if (strstr(line, "from") != NULL && strstr(line, "to") != NULL) {
             log_ln(line);
             time_t start_time = str_to_time(strstr(line, "from") + 5);
             time_t end_time = str_to_time(strstr(line, "to") + 3);
@@ -46,7 +45,7 @@ void kline_csv_to_bin(int kline_period, const char* csv_file_name, const char* b
     }
     fclose(csv_file);
     fclose(bin_file);
-
+    
     log_ln("kline_lines_in_file %d kline_lines %d", kline_lines_in_file, kline_lines);
     if (kline_lines_in_file != kline_lines) {
         exit(EXIT_FAILURE);
@@ -73,18 +72,38 @@ Kline_period KLINE_PERIODS[] = {
 const char* KLINE_COIN[] = { "btc", "eth", "doge", "ltc", "xrp", "ada", "uni", "dot", "sol", "shib", "etc"};
 #define KLINE_NUM   (sizeof(KLINE_COIN)/sizeof(char*))
 
+char* get_coin_channel_name(const char* coin, const char* period) {
+#define NAME_MAX_LEN    64
+    char* name = (char*)malloc(NAME_MAX_LEN);
+    if (name == NULL) {
+        log_ln("get_coin_channel_name name malloc fail");
+        exit(0);
+        return NULL;
+    }
+    snprintf(name, sizeof(NAME_MAX_LEN), "market.%susdt.kline.%s", coin, period);
+    return name;
+}
+
+char* get_coin_channel_name(const char* coin, int period) {
+    for (int i = 0; i < PERIOD_NUM; i++) {
+        if (KLINE_PERIODS[i].period == period) {
+            return get_coin_channel_name(coin, KLINE_PERIODS[i].period);
+        }
+    }
+    return NULL;
+}
 
 void all_kline_csv_to_bin() {
     for (int k = 0; k < KLINE_NUM; k++) {
         for (int p = 0; p < PERIOD_NUM; p++) {
             char kline_name[64];
             snprintf(kline_name, sizeof(kline_name), "market.%susdt.kline.%s", KLINE_COIN[k], KLINE_PERIODS[p].name);
-
+            
             char csv_file_name[512];
             snprintf(csv_file_name, sizeof(csv_file_name), "%s\\%s.csv", CSV_FILE_DIR, kline_name);
             char bin_file_name[512];
             snprintf(bin_file_name, sizeof(bin_file_name), "%s\\%s.bin", BIN_FILE_DIR, kline_name);
-
+            
             kline_csv_to_bin(KLINE_PERIODS[p].period, csv_file_name, bin_file_name);
         }
     }

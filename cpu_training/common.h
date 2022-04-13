@@ -10,7 +10,6 @@
 
 #define D_FLOAT float
 
-
 #pragma pack(1)
 typedef struct {
     D_FLOAT open;
@@ -33,7 +32,9 @@ typedef struct {
 } Kline_item_sto;
 #pragma pack()
 
+#include "kline_data.h"
 #include "indicator.h"
+#include "strategy.h"
 
 #define CSV_FILE_DIR "..\\..\\..\\kline_csv"
 #define BIN_FILE_DIR "..\\..\\..\\kline_bin"

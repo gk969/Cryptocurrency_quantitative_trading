@@ -12,6 +12,7 @@ public:
     ~Indicator_SMA();
     
     inline D_FLOAT get(int i);
+    int get_valid_start();
 };
 
 class Indicator_EMA {
@@ -24,6 +25,7 @@ public:
     ~Indicator_EMA();
     
     inline D_FLOAT get(int i);
+    int get_valid_start();
 };
 
 typedef struct {
@@ -46,6 +48,7 @@ public:
     ~Indicator_bollinger_band();
     
     inline Bollinger_band* get(int i);
+    int get_valid_start();
 };
 
 class Indicator_MACD {
@@ -63,6 +66,7 @@ public:
     ~Indicator_MACD();
     
     inline D_FLOAT get(int i);
+    int get_valid_start();
 };
 
 class Indicator_RSI {
@@ -78,6 +82,7 @@ public:
     ~Indicator_RSI();
     
     inline D_FLOAT get(int i);
+    int get_valid_start();
 };
 
 
